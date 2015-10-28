@@ -43,9 +43,9 @@ In week 1 we have conducted a couple of interviews to become familiar with inter
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X-UbnzS6HSI" frameborder="0" allowfullscreen></iframe>
 
-### Interview 2: Ardavan Ghadaffi
+### Interview 2: Ardavan Ghaffari
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WdcoNdIzUR4" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o_qFuLCrHTA" frameborder="0" allowfullscreen></iframe>
 
 ### Interview 3: Dennis Vermeulen
 
