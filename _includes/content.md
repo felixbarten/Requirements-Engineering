@@ -75,7 +75,7 @@ I use the Blackboard system to access course information, assignments, grades an
  
 - The user interface is not the most intuitive in a number places. E.G: It is sometimes not sure that items are clickable such as:
 
- ![Screenshot](../images/blackboardscreenshot.png)
+ ![Screenshot]({{ site.url }}/images/blackboardscreenshot.png)
   
 
   *The following is a table depicting the average number of times I visit blackboard per day*
@@ -103,13 +103,19 @@ In week 1 we have conducted a couple of interviews to become familiar with inter
 
 ### Interview 1: Bart de Man 
 
+Location: G building 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X-UbnzS6HSI" frameborder="0" allowfullscreen></iframe>
 
 ### Interview 2: Ardavan Ghaffari
 
+Location: G building 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o_qFuLCrHTA" frameborder="0" allowfullscreen></iframe>
 
 #### Interview 3: Dennis Vermeulen
+
+Location: Interviewed an empty classroom
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q4AcebGHNT4" frameborder="0" allowfullscreen></iframe>
 
@@ -117,4 +123,25 @@ In week 1 we have conducted a couple of interviews to become familiar with inter
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IS7C3cLwzCo" frameborder="0" allowfullscreen></iframe>
 
+## Interview Reflection
+
+<< General refl.
+
+### Interview 1
+
+#### Felix
+
+#### Joel
+
+### Interview 2
+
+#### Felix
+
+#### Joel
+
+### Interview 3
+
+#### Felix
+
+#### Joel
 
