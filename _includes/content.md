@@ -155,3 +155,28 @@ However it wasn't that hard to get useful answers however most people found that
 
 #### Joel
 
+## Interview Findings
+
+During the interviews we found some questions are more efficient than others at eliciting a response from the interviewee. Very broad questions like: "What don't you like about blackboard" sometimes work great and other times don't result in any useful information. While some of these questions could be stepping stones to a more drilled down approach for these questions the questions usually aren't that effective. 
+
+The question "do you have any prior experience with a system like blackboard" usually gives a good response because if the participant already has experience with other systems he or she might have more knowledge of the functionalities the other systems posess and might have some suggestions for extra features of blackboard. 
+
+The question "what do you use blackboard for" resulted in the same response for all the participants of the interviews. They all use the system to obtain information about the courses. Especially course materials, assignments and grades.
+
+The question "how often do you use blackboard" yielded some (mildly)interesting results. Two out of three people said that they avoid using the system as often as possible. This is a good indication that there might be something wrong with blackboard.
+
+
+## Reading Assignments
+
+### Felix 
+
+
+### Joel 
+
+
+# Week 2
+
+# Week 3
+
+# Week 4
+
