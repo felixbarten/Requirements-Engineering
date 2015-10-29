@@ -125,13 +125,13 @@ Location: Interviewed an empty classroom
 
 ## Interview Reflection
 
-<< General refl.
+### Felix
 
-### Interview 1
+While the goal of this exercise was to become familiar with interviewing people. Interviewing (on video) was relatively new to me because it was never required to interview strangers for previous assignments. Because the assignment was to conduct interviews without any preparation we did just that, however I feel like there would be more beneficial information uncovered if there was a short preparation before the interviews. A lot of the times I forgot which questions to ask next or would get confused where I was in an interview and this could have probably been prevented with some preparation time. 
 
-#### Felix
+However it wasn't that hard to get useful answers, however most people found that the blackboard system wasn't that bad to begin with for their day to day uses. However I did not really drill down that much because that wasn't the whole assignment but in retrospect I probably should have drilled down a bit further because there was more information available. Overall I don't think I did that badly but it could have gone a lot better so there are lots of opportunities to improve! 
 
-#### Joel
+### Joel
 
 The interviews were not conducted with a particular goal in mind that was known to both parties. An experiment could be done to make it clear and see if that leads to more fruitful interviews.
 
@@ -141,17 +141,28 @@ The location of an interview seems to also have an effect on the type of answers
 on the answers provided. 
 
 
+## Interview Findings
+
+During the interviews we found some questions are more efficient than others at eliciting a response from the interviewee. Very broad questions like: "What don't you like about blackboard" sometimes work great and other times don't result in any useful information. While some of these questions could be stepping stones to a more drilled down approach for these questions the questions usually aren't that effective. 
+
+The question "Do you have any prior experience with a system like blackboard?" usually gives a good response because if the participant already has experience with other systems he or she might have more knowledge of the functionalities the other systems posess and might have some suggestions for extra features of blackboard. 
+
+The question "What do you use blackboard for?" resulted in the same response for all the participants of the interviews. They all use the system to obtain information about the courses. Especially course materials, assignments and grades.
+
+The question "How often do you use blackboard?" yielded some mildly interesting results. Two out of three people said that they avoid using the system as often as possible. This is a good indication that there might be something wrong with blackboard.
 
 
-### Interview 2
+## Reading Assignments
 
-#### Felix
+### Felix 
 
-#### Joel
 
-### Interview 3
+### Joel 
 
-#### Felix
 
-#### Joel
+# Week 2
+
+# Week 3
+
+# Week 4
 
