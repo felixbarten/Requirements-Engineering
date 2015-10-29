@@ -75,7 +75,7 @@ I use the Blackboard system to access course information, assignments, grades an
  
 - The user interface is not the most intuitive in a number places. E.G: It is sometimes not sure that items are clickable such as:
 
- ![Screenshot]({{ site.url }}/images/blackboardscreenshot.png)
+ ![Screenshot](images/blackboardscreenshot.png)
   
 
   *The following is a table depicting the average number of times I visit blackboard per day*
@@ -132,6 +132,8 @@ Location: Interviewed an empty classroom
 #### Felix
 
 #### Joel
+
+
 
 ### Interview 2
 
