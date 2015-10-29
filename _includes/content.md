@@ -133,6 +133,14 @@ Location: Interviewed an empty classroom
 
 #### Joel
 
+The interviews were not conducted with a particular goal in mind that was known to both parties. An experiment could be done to make it clear and see if that leads to more fruitful interviews.
+
+It seems to be effective to draw on the person's past experience. The answers were well-thought-out yet concise this was probably due to the interviewee already being familiar with the interviewer.
+
+The location of an interview seems to also have an effect on the type of answers you receive. For example closed spaces can lead to the interviewee being more reserved and less likely to openly share their answer it would probably be a good to idea to look more closely at the effect of the location/setting
+on the answers provided. 
+
+
 
 
 ### Interview 2
