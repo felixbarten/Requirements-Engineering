@@ -125,11 +125,19 @@ Location: Interviewed an empty classroom
 
 ## Interview Reflection
 
-<< General refl.
+### Felix
 
+While the goal of this exercise was to become familiar with interviewing people. Interviewing (on video) was relatively new to me because it was never required to interview strangers for previous assignments. Because the assignment was to conduct interviews without any preparation we did just that however I feel like there would be more beneficial information uncovered if there was a short preparation before the interviews. A lot of the times I forgot which questions to ask next or would get confused where I was in an interview and this could have probably been prevented with some preparation time. 
+
+However it wasn't that hard to get useful answers however most people found that the blackboard system wasn't that bad to begin with for their day to day uses. However I did not really drill down that much because that wasn't the whole assignment but in retrospect I probably should have drilled down a bit further because there was more information available. Overall I don't think I did that badly but it could have gone a lot better so there are lots of opportunities to improve! 
+
+
+### Joel
 ### Interview 1
 
 #### Felix
+
+
 
 #### Joel
 
