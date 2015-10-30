@@ -51,19 +51,23 @@ While I've used a number of different learning management systems during prior s
 
 #### Usage 
 
-I use the Blackboard system to access course information, assignments, grades and relevant materials of courses im currently following. 
+I use the Blackboard system to access course information, assignments, grades and relevant materials of courses I'm currently following. 
 
 #### Functionality
+
+Even though the basic functionality blackboard provides is sufficient I did have a few problems with some points: 
 
 * Navigation could be better (buttons that seem clickable aren't and the other way around)
 * Random outage times (Sunday for 3-5 hours and on a monday evening)
 
 #### Annoyances
 
-* Logged out EVERY TIME and doesn't redirect back to login, instead gives a generic error.
-* Can't submit files when you want to 
+I have noticed a few annoying things about blackboard in the eight weeks I've used the system: 
+
+* When the system logs out the user, the user is not notified but instead will get a generic error. This could be replaced by a redirect function if the user tries to access a part of blackboard after the session has expired. 
+* Can't submit files because the system won't let you. This happened quite often when submitting assignments.
 * Errors that can't be explained. 
-* Sometimes functionalities just don't work in a single browser
+* Sometimes submitting a form doesn't work. No explanation is given but it will inexplicably work in a different browser. 
 
 ### Observations made by Joel Bartholomew
 
