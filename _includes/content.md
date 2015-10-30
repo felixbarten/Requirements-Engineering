@@ -231,8 +231,7 @@ Using the information gained during the previous steps we will gather the requir
 
 **Step 8: Determine/Sketch the requirements relevant for system-to-be (Setting the scene)**
 
-During this step, we will create a model of the requirements that the system needs to fulfill. 
-
+During this step, we will create a model of the requirements that the system needs to fulfill to understand its objectives, regulating laws, deficiencies and limitations, and the system-to-be, to elaborate the requirements on the software-to-be accordingly together with assumptions on the environment.   
 
 # Week 2
 
