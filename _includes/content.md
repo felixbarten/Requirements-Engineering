@@ -172,22 +172,21 @@ The question "How often do you use blackboard?" yielded some mildly interesting 
     * What role does blackboard play in UvA's vision?
     * What current alternatives for the blackboard system are available now on the market? 
 
-
 - 1.3 See next section
 
 ### Joel 
 
 - 1.1 What are for this assignment the obvious sources of information to find requirements and make sense of your assignment for the first four weeks.
   
-  The most apparent sources requirement information for this assignment are students and teachers. They are the two types of people who interact with blackboard and will interact with its replacement. The assignment 
-  can be seen as finding out what the requirements are system replacing blackboard so that the goal which is the transition to and integration of the new system can go smoothly. This assigment also provides an opportunity
-  to see how well blackboard has done as system and use that information when selecting its succesor.
+  The most apparent sources requirement information for this assignment are students and teachers. They are the two types of people who interact with blackboard and will interact with its replacement. The assignment can be seen as finding out what the requirements are for the system replacing blackboard so that the goal, which is the transition to and integration of the new system, can go smoothly. This assignment also provides an opportunity to see how well blackboard has done as system and use that information when selecting its successor.
 
 - 1.2 Think of three important questions for your project that you can not likely answer by going to these sources.
   
-  Why was the choice made to use blackboard?
-  What was the original goal of using blackboard?
-  What are possible candidates that could replace blackboard?
+  - Why was the choice made to use blackboard?
+
+  - What was the original goal of using blackboard?
+
+  - What are possible candidates that could replace blackboard?
 
 - 1.3 See next section
   
@@ -201,7 +200,7 @@ This is done in attempt to determine all the people who are relevant to the prob
 
 **Step 2: Determine the most important stakeholders due time contraints we cannot deal with all stakeholders (Contextual design)**
    
-This step will be taken due to time constraints imposed on the requirement engineers in the assignment's lifespan. By priorizing the stakeholders there will be more time to dedicate to the more important stakeholders to make sure the system's resulting functionalities are in line with their expectations. 
+This step will be taken due to time constraints imposed on the requirement engineers in the assignment's lifespan. By prioritizing the stakeholders there will be more time to dedicate to the more important stakeholders to make sure the system's resulting functionalities are in line with their expectations. 
 
 
 **Step 3: Create a sketch of the system-as-is by looking at the features provided by blackboard and how it is used in the problem world. (Setting the scene)**
