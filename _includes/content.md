@@ -194,20 +194,33 @@ The question "How often do you use blackboard?" yielded some mildly interesting 
 ### Assignment Plan
 
 Step 1: Identify stakeholders
+    This is done in attempt to determine all the people who are relevant to the problem and need to be involved in the requirements engineering process
 
-Step 2: Determine the most important stakeholders due time contraints we cannot deal with all stakeholders (contextual design)
+Step 2: Determine the most important stakeholders due time contraints we cannot deal with all stakeholders (Contextual design)
+    This step will be taken due to time constraints imposed on the requirement engineers in the assignment's lifespan. By priorizing the stakeholders there will be more time to dedicate to the more important stakeholders to make sure the system's resulting functionalities are in line with their expectations. 
 
-Step 3: Create a sketch of the system-as-is (Setting the scene) 
 
-Step 4: Determine the original goal behind the use of blackboard (context design)
+Step 3: Create a sketch of the system-as-is by looking at the features provided by blackboard and how it is used in the problem world. (Setting the scene)
+    This is done to properly understand the current solutions provided by the system for the problem world. We can use this to assess the overall effect of blackboard on the problem domain
 
-Step 5: Check to see if blackboard managed to achieve its goal
+Step 4: Determine the original goal behind the use of blackboard by examing to the application domain (Contextual design)
+    This point is to gain a frame of reference to determine what the goal of the new system is so that we can determine which are important in reaching that particular goal
+    
+Step 5: Check to see if blackboard managed to achieve its goal 
+    This step is performed to ascertain if the system has fulfilled it's goal. This information will be obtained through interviews with the prioritized stakeholders. We have chosen to obtain this information because it can be used in later steps to help measure new solutions. 
+    If the organisational goals were reached with the current system the new system should excel at other aspects and also contain all the functionality previously provided. 
+    If the system didnt satisfy those goals the criteria that weren't met can be examined for additional requirements that can be used to measure the new system.
+    
+Step 6: Check to see if the goal has changed by use of contextual inquiry and interviewing stakeholders (Contextual design)
+    This step will result into a view of the current state of the problem world to see if the original goal behind blackboard still has a basis in the reality of the current application domain.
 
-Step 6: Check to see if the goal has changed
+Step 7: See if it is possible to achieve blackboard's original goal + a combination of the new goal in a more optimal way by look possibilities in redesigning the work practice (Contextual design) 
+    Using the information gained during the previous steps we will gather the requirements by looking at the goals of the system and determining which ones are necessary for a success and which requires
+    need to be refuted.
 
-Step 7: See if it is possible to achieve blackboard's original goal + a combination of the new goal in a more optimal way
+Step 8: Determine/Sketch the requirements relevant for system-to-be (Setting the scene)
+    During this step, we will create a model of the requirements that the system needs to fulfill. 
 
-Step 8: Create a sketch of the system-to-be(Setting the scene)
 
 # Week 2
 
