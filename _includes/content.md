@@ -156,6 +156,24 @@ The question "How often do you use blackboard?" yielded some mildly interesting 
 
 ### Felix 
 
+- 1.1 What are for this assignment the obvious sources of information to find requirements and make sense of your assignment for the first four weeks.
+
+Obvious sources of information are:
+
+* Users (students, teachers)
+* IT Department
+* UvA management 
+* Users of other types of systems at other learning institutions (with likely similar goals for a learning management system) 
+* Maintainers/developers of the blackboard system
+
+- 1.2 Think of three important questions for your project that you can not likely answer by going to these sources.
+
+* What is the main goal of blackboard?
+* What role does blackboard play in UvA's vision?
+* What current alternatives for the blackboard system are available now on the market? 
+
+
+- 1.3 Read the required reading. Look at the overall assignment for the first four weeks. Plan your requirements activities for the first four weeks. Provide a short rationale, referring to the documents you’ve read. 
 
 ### Joel 
 
