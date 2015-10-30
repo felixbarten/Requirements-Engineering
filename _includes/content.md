@@ -159,6 +159,21 @@ The question "How often do you use blackboard?" yielded some mildly interesting 
 
 ### Joel 
 
+- 1.1 What are for this assignment the obvious sources of information to find requirements and make sense of your assignment for the first four weeks.
+  
+  The most apparent sources requirement information for this assignment are students and teachers. They are the two types of people who interact with blackboard and will interact with its replacement. The assignment 
+  can be seen as finding out what the requirements are system replacing blackboard so that the goal which is the transition to and integration of the new system can go smoothly. This assigment also provides an opportunity
+  to see how well blackboard has done as system and use that information when selecting its succesor.
+
+- 1.2 Think of three important questions for your project that you can not likely answer by going to these sources.
+  
+  Why was the choice made to use blackboard?
+  What was the original goal of using blackboard?
+  What are possible candidates that could replace blackboard?
+
+- 1.3 Read the required reading. Look at the overall assignment for the first four weeks. Plan your requirements activities for the first four weeks. Provide a short rationale, referring to the documents you’ve read. 
+  
+
 
 # Week 2
 
