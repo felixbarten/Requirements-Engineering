@@ -173,7 +173,7 @@ The question "How often do you use blackboard?" yielded some mildly interesting 
     * What current alternatives for the blackboard system are available now on the market? 
 
 
-- 1.3 Read the required reading. Look at the overall assignment for the first four weeks. Plan your requirements activities for the first four weeks. Provide a short rationale, referring to the documents you’ve read. 
+- 1.3 See next section
 
 ### Joel 
 
@@ -189,9 +189,11 @@ The question "How often do you use blackboard?" yielded some mildly interesting 
   What was the original goal of using blackboard?
   What are possible candidates that could replace blackboard?
 
-- 1.3 Read the required reading. Look at the overall assignment for the first four weeks. Plan your requirements activities for the first four weeks. Provide a short rationale, referring to the documents you’ve read. 
+- 1.3 See next section
   
-### Assignment Plan
+### 1.3 Activities plan 
+
+_1.3 Read the required reading. Look at the overall assignment for the first four weeks. Plan your requirements activities for the first four weeks. Provide a short rationale, referring to the documents you’ve read._
 
 **Step 1: Identify stakeholders**
 
