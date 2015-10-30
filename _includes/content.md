@@ -194,12 +194,19 @@ The question "How often do you use blackboard?" yielded some mildly interesting 
 ### Assignment Plan
 
 Step 1: Identify stakeholders
-Step 2: Determine the most important stakeholders (contextual design)
+
+Step 2: Determine the most important stakeholders due time contraints we cannot deal with all stakeholders (contextual design)
+
 Step 3: Create a sketch of the system-as-is (Setting the scene) 
+
 Step 4: Determine the original goal behind the use of blackboard (context design)
+
 Step 5: Check to see if blackboard managed to achieve its goal
+
 Step 6: Check to see if the goal has changed
+
 Step 7: See if it is possible to achieve blackboard's original goal + a combination of the new goal in a more optimal way
+
 Step 8: Create a sketch of the system-to-be(Setting the scene)
 
 # Week 2
