@@ -238,6 +238,56 @@ During this step, we will create a model of the requirements that the system nee
 
 # Week 2
 
+## Interview preparation 
+
+To prepare for the interview we first went over the interesting questions from last week. 
+
+* Do you have any prior experience with a system like blackboard?
+* How often do you use blackboard?
+* What do you use blackboard for?
+* What do you miss in blackboard?
+
+We've come up with a few additional questions. 
+
+1. What functionality do you expect from a digital learning environment? 
+* Have you ever tried the mobile version of blackboard?
+* Do you find blackboard easy to use? 
+    1. Has the usability of blackboard ever affected your performance in a course?
+* Have you ever had a teacher who did not use blackboard primarily?
+    1. What did he/she use instead of blackboard?
+    * Do you feel that was better or worse for the course? How about your performance in the course?
+* Have you ever found a course difficult because of something related to blackboard?
+
+* Do you feel that a unified experience is important for courses? 
+    1. Have you ever lost time because of the fact you had to become used to or learn a teacher's particular way of working with blackboard/ some other system?
+
+Our approach for the interviews for week 2 is a bit of free form (partial free form) with a defined set of questions to ask for structure. We will ask the following questions in roughly this order:
+
+1. Who are you and what do you study?
+* Are you familiar with the blackboard system?
+* What do you use blackboard for?
+* How often do you consult blackboard? 
+* Do you have any prior experience with a system like blackboard?
+* Have you ever had a teacher who did not use blackboard primarily?
+    1. What did he/she use instead of blackboard?
+* Is there something you feel that is blackboard is lacking as a digital learning environment?
+* Do you find blackboard easy to use? 
+    1. Has the usability of blackboard ever affected your performance in a course?
+* Have you ever found a course difficult because of something related to blackboard?
+    1. Do you feel that was better or worse for the course? How about your performance in the course?
+* Do you feel that a unified experience is important for courses? 
+    1. Have you ever lost time because of the fact you had to become used to or learn a teacher's particular way of working with blackboard/ some other system?
+
+### Apprenticing the customer
+
+After reading the paper to become familiar with the apprenticeship role we decided it could be implemented to elicit requirements in an interview. The interview will follow roughly the same outline as the one described above with a different main activity. The interviewee will be asked to perform some simple tasks in blackboard and will be asked questions about actions he or she takes to navigate the website. 
+
+Questions:
+
+
+1. Would you be willing to show us how you normally access blackboard?
+2. Can you show us how you access blackboard when you are looking for something specific?
+
 # Week 3
 
 # Week 4
