@@ -288,6 +288,18 @@ Questions:
 1. Would you be willing to show us how you normally access blackboard?
 2. Can you show us how you access blackboard when you are looking for something specific?
 
+## Interview week 2
+### Interview 1
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GMR01QZftjc" frameborder="0" allowfullscreen></iframe>
+### Interview 2
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yqX3pnClYZg" frameborder="0" allowfullscreen></iframe> 
+### Interview 3
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/efq_5pfKhxs" frameborder="0" allowfullscreen></iframe>
+
+### Interview overview
+
 # Week 3
 
 # Week 4
