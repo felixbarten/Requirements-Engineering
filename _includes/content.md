@@ -1,3 +1,9 @@
+# Table of Contents
+{:.no_toc}
+
+1. TOC
+{:toc}
+
 #Week 1
 
 ## Assignment: 
@@ -237,6 +243,27 @@ Using the information gained during the previous steps we will gather the requir
 During this step, we will create a model of the requirements that the system needs to fulfill to understand its objectives, regulating laws, deficiencies and limitations, and the system-to-be, to elaborate the requirements on the software-to-be accordingly together with assumptions on the environment.   
 
 # Week 2
+## Assignment
+
+Between right brackets: estimated time needed for this part of the assignment.
+monitor use of blackboard / log quantitative data (individually) 
+
+RESEARCH: [2 hours] (group)
+Spend two hours on the web and in the (digital) library to make sense of the domain and what possibilities there are to make this better.
+
+INTERVIEWS: [2 hours] (group)
+Conduct three (video-recorded) interviews. Publish these, and a one minute montage as described in the assignment for week 1, on your website.
+1. Conduct your interviews, take some care to prepare your questions.
+2. After each interview examine the information you got. Reflect with your partner. Which questions were productive? What do you know about the reliability of the answers you get? How can you get more reliable information?
+3. Base one interview on the paper "Apprenticing with the customer": i.e. one of the interviewees is being interviewed at the place where they are reading their books, while they show how they read their books.
+4. Log interesting findings and effective questions.
+
+ORGANIZE: [2 hours] (group)
+You begin to gather quite a lot of data. Take one to two hours to set up your administration in such a way that it is easy to continuously restructure your data. Discuss the ideas from the paper on Contextual Design how you structure your data here.
+
+## Research
+
+
 
 ## Interview preparation 
 
@@ -288,7 +315,7 @@ Questions:
 1. Would you be willing to show us how you normally access blackboard?
 2. Can you show us how you access blackboard when you are looking for something specific?
 
-## Interview week 2
+## Interviews week 2
 
 ### Interview 1
 
@@ -304,6 +331,39 @@ Questions:
 ### Interview overview
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PRsyzACBqMA" frameborder="0" allowfullscreen></iframe>
+
+## Interview Observations 
+
+## Interview Reflection
+
+## Organize data
+
+
+## Reading Assignments
+
+2.1 Explore literature about emphatic listening, active listening and identify five verbal and non verbal cues that stimulate the interviewee in providing elaborate information. 
+
+2.2 Like 2.1 but now identify five cues that stop 
+
+2.3 Apply 2.1 and 2.2 techniques in your interviews and assess your partner on the cues you identified in 2.1 and 2.2
+
+2.4 Explain from the theory how memory works why some of the techniques yield more reliable memories than others
+
+2.5 Experiment with the technique as described with "apprenticing with the customer", can you see that this helps yield more reliable memories?
+
+Ad 2.1 and 2.2
+Stakeholders are a rich source of information. For a requirements engineer it is important to get the right information from interviews. Getting people to elaborately talk on topic is sometimes a challenge. The words we use, how we say it, our posture, our reactions, moments of silence are all of impact. (this is what I refer to as cues in the assignment)
+This is important in a wide range of fields: eg journalists, interviewers, psychologists, doctors as well as requirements engineers.
+For this assignment you should reference literature. Explore multiple sources. Look at empirical and anecdotal evidence. Provide an annotated bibliography of sources you consider relevant.
+
+Ad 2.4 
+Getting good information is not only a matter of people opening up. You want their accounts to be truthful as well as on topic. People don’t always do well on recall: they leave out many details. Providing cognitive aids that activate memory in the right way are of use:- Recognition: bringing the work into sight. Also models and other cues will help.- Group discussion: people presenting cues, questions, remarks, that trigger associations- Tips from eyewitness interviews: cognitive interview, bringing the witness in the context, revisiting the chronology of the day with detailed description.
+
+We know of many reasons why people provide accounts that are not accurate. Sometimes knowingly, many times unconsciously. In the process of remembering, we are many times constructing new memories, which we believe to be true.
+See some of the materials on memory, do some exploration of yourself. Build a good (short, truthful, relevant) model of how memory works and under what conditions it gives more information and more accurate information.  
+Analyse at least two of the techniques you have been using to see how well they score based on your model of memory.
+
+
 
 # Week 3
 
