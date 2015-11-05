@@ -1,3 +1,7 @@
+## Data
+
+{{site.url}}/data.html
+
 # Table of Contents
 {:.no_toc}
 
