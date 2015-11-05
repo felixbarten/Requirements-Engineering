@@ -1,6 +1,8 @@
 ## Data
+{:.no_toc}
 
-{{site.url}}/data.html
+[Link to collected data]({{page.data}})
+
 
 # Table of Contents
 {:.no_toc}
