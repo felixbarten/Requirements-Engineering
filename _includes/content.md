@@ -249,6 +249,7 @@ Using the information gained during the previous steps we will gather the requir
 During this step, we will create a model of the requirements that the system needs to fulfill to understand its objectives, regulating laws, deficiencies and limitations, and the system-to-be, to elaborate the requirements on the software-to-be accordingly together with assumptions on the environment.   
 
 # Week 2
+
 ## Assignment
 
 Between right brackets: estimated time needed for this part of the assignment.
@@ -269,7 +270,9 @@ You begin to gather quite a lot of data. Take one to two hours to set up your ad
 
 ## Research
 
-
+=====
+TODO
+=====
 
 ## Interview preparation 
 
@@ -326,6 +329,7 @@ Questions:
 ### Interview 1
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GMR01QZftjc" frameborder="0" allowfullscreen></iframe>
+
 ### Interview 2
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yqX3pnClYZg" frameborder="0" allowfullscreen></iframe> 
@@ -340,7 +344,15 @@ Questions:
 
 ## Interview Observations 
 
+
+
 ## Interview Reflection
+
+### Felix 
+
+I've conducted one interview this week. My interview was a mix of a regular interview and some part of it was dedicated to the apprenticiing the customer paper. There are a few pitfalls when using this method. The interviewer needs to feign ignorance in order to let the customer show him to do the work. I don't think I completely succeeded in this aspect of the exercise. Sometimes I would help the interviewee out by pointing out more efficient ways to do things. When doing this interview I asked the interviewee if she could show me how to access her assignments. I chose this activity because it was always the most prevalent answer whenever we asked what the students used blackboard for. And this is of course one of the main functionalities of the system. Although the answer was good I don't think we used the method's full potential for the interview. There were more interactions possible although a student's interaction with blackboard might be quite simple (see assignments, course info etc...).
+
+### Joel
 
 ## Organize data
 
