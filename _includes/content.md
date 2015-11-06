@@ -455,7 +455,7 @@ Analyse at least two of the techniques you have been using to see how well they 
 Verbal Cues
 
 1. "Hmmm" 
-* "yes"	 
+2. "yes"	 
 * "I see" 
 * "Ah"		
 * "Go on"
@@ -466,10 +466,10 @@ The first 6 verbal cues were found in the thesis: Requirements Elicitation Techn
 
 Non-verbal cues
 
-1. Nodding at the person. 
-*  Smiling
-*  Be silent until the person starts talking again
-* 
+1.Nodding at the person. 
+* Smiling
+* Be silent until the person starts talking again
+
 
 These non-verbal cues were found in the thesis: Requirements Elicitation Technique by Nisha Jacob.  
 
