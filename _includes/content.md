@@ -448,7 +448,62 @@ We know of many reasons why people provide accounts that are not accurate. Somet
 See some of the materials on memory, do some exploration of yourself. Build a good (short, truthful, relevant) model of how memory works and under what conditions it gives more information and more accurate information.  
 Analyse at least two of the techniques you have been using to see how well they score based on your model of memory.
 
+### Felix
 
+#### 2.1 
+
+Verbal Cues
+
+1. "Hmmm" 
+* "yes"	 
+* "I see" 
+* "Ah"		
+* "Go on"
+* By periodically summarizing what the person has said the person can provide more information if he/she feels the information is lacking somehow
+* You can generally repeat some of the last words of a sentence to trigger a more elaborate response
+
+The first 6 verbal cues were found in the thesis: Requirements Elicitation Technique by Nisha Jacob.  
+
+Non-verbal cues
+
+1. Nodding at the person. 
+*  Smiling
+*  Be silent until the person starts talking again
+* 
+
+These non-verbal cues were found in the thesis: Requirements Elicitation Technique by Nisha Jacob.  
+
+#### 2.2 
+
+Cues to stop talking about a subject. 
+
+1. Asking to go back to a previous question or subject. 
+2. Acknowledging you understand what the interviewee is trying to say and try to move on to the next question. 
+
+
+These cues were found in the thesis: Requirements Elicitation Technique by Nisha Jacob.  
+
+#### 2.3
+
+Unfortunately we conducted the interviews before the reading assignments. As there was no relation in last week's reading assignments to the interview part of the assignment we did not anticipate that the interview part would be affected by the reading part. 
+
+#### 2.4
+
+#### 2.5 
+
+### Joel
+
+#### 2.1 
+
+#### 2.2 
+
+#### 2.3
+
+Unfortunately we conducted the interviews before the reading assignments. As there was no relation in last week's reading assignments to the interview part of the assignment we did not anticipate that the interview part would be affected by the reading part. 
+
+#### 2.4
+
+#### 2.5 
 
 # Week 3
 
