@@ -362,21 +362,53 @@ This answer yielded all the same results as last week's interviews. Students use
 
 **Question: 4. How often do you consult blackboard?**
 
-
+This question yielded the same response as last week with a minor change. The respondents said they use it every day for their studies but they didn't say this was a bad thing whereas people we interviewed last week said they would use only when they had to becuase they didn't like spending that much time in the system.
 
 **Question: 5. Do you have any prior experience with a system like blackboard?**
-**Question: 6. Have you ever had a teacher who did not use blackboard primarily?**
-**Question: 		1. What did he/she use instead of blackboard?**
-**Question: 7. Is there something you feel that is blackboard is lacking as a digital learning environment?**
-**Question: 8. Do you find blackboard easy to use?**
-**Question:  		1. Has the usability of blackboard ever affected your performance in a course?**
-**Question: 9. Have you ever found a course difficult because of something related to blackboard?**
-**Question: 		1. Do you feel that was better or worse for the course? How about your performance in the course?**
-**Question: 10. Do you feel that a unified experience is important for courses?**
-**Question: 		1. Have you ever lost time because of the fact you had to become used
-to or learn a teacher's particular way of working with blackboard/
-some other system?**
 
+When we asked this question a few (other) systems came up but the systems that did come up were incomparible to blackboard because their scope was smaller and contained less functionalities. 
+
+**Question: 6. Have you ever had a teacher who did not use blackboard primarily?**
+
+No one out of our interviewed students had teachers that deviated from blackboard. This was kind of surprising due to personal experiences with these sort of things but plausible. 
+
+**Question: 		1. What did he/she use instead of blackboard?**
+
+No answers. 
+
+**Question: 7. Is there something you feel that is blackboard is lacking as a digital learning environment?**
+
+One person said he would like an addition to blackboard in the form of a roster application. In the current environment there is another application that fulfills this information need and will need to be accessed separately from blackboard.
+
+
+**Question: 8. Do you find blackboard easy to use?**
+
+All students found blackboard easy to use except for finding files. However noone reported to ever have been unable to find anything without some help from fellow students or the teacher. 
+
+
+**Question:  		1. Has the usability of blackboard ever affected your performance in a course?**
+
+No answers.
+
+
+**Question: 9. Have you ever found a course difficult because of something related to blackboard?**
+
+None of the interviewers had this problem. 
+
+
+**Question: 		1. Do you feel that was better or worse for the course? How about your performance in the course?**
+
+No answers.
+
+
+**Question: 10. Do you feel that a unified experience is important for courses?**
+
+One person said it would help a little bit but that it wouldn't solve the usability problems blackboard is currently experiencing. 
+
+
+**Question: 		1. Have you ever lost time because of the fact you had to become used to or learn a teacher's particular way of working with blackboard/some other system?**
+
+No Answers
 
 ## Interview Reflection
 
