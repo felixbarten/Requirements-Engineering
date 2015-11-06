@@ -456,11 +456,11 @@ Verbal Cues
 
 1. "Hmmm" 
 2. "yes"	 
-* "I see" 
-* "Ah"		
-* "Go on"
-* By periodically summarizing what the person has said the person can provide more information if he/she feels the information is lacking somehow
-* You can generally repeat some of the last words of a sentence to trigger a more elaborate response
+3. "I see" 
+4. "Ah"		
+5. "Go on"
+6. By periodically summarizing what the person has said the person can provide more information if he/she feels the information is lacking somehow
+7. You can generally repeat some of the last words of a sentence to trigger a more elaborate response
 
 The first 6 verbal cues were found in the thesis: Requirements Elicitation Technique by Nisha Jacob.  
 
