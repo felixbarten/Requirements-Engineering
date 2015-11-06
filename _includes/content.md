@@ -355,11 +355,11 @@ I've conducted one interview this week. My interview was a mix of a regular inte
 
 ### Joel
 
-In contrast to the previous weak we prepared some questions and topics to cover during the interviews. It seems as if this makes it much easier to conduct an interview but we were still somewhat directionless due to the fact that we did not quite have clear research questions for requirements we wanted to have answered during the interviews. It also seemed that during my interviews in particular I had some issues conducting keeping them going smoothly and found it difficult to drill down into topics.
+In contrast to the previous week we prepared some questions and topics to cover during the interviews. It seems as if this makes it much easier to conduct an interview but we were still somewhat directionless due to the fact that we did not quite have clear research questions for requirements we wanted to have answered during the interviews. It also seemed that during my interviews in particular I had some issues conducting keeping them going smoothly and found it difficult to drill down into topics.
 
 ## Organize data
 
-To organize our data we created another page 
+To organize our data we created another page [Click Here](./data)
 
 ## Reading Assignments
 
