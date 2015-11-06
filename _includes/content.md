@@ -271,8 +271,6 @@ You begin to gather quite a lot of data. Take one to two hours to set up your ad
 ## Research
 
 =====
-TODO
-=====
 
 ## Interview preparation 
 
@@ -524,9 +522,11 @@ The camera angle was not the best but from what I tell he faces the other person
 
 Memory is a currently seen as a system-wide process. The brain first determines whether a particular stimulus/event is worth remembering and then proceeds to slightly reconstruct itself to accomodate the new memory. The brain changes it's structure throughout the course of one's lifetime based on their experiences. The more you experience things the better you become at remembering them. It was once believed that when the brain adjusted its synapses to a particular long term memory, that memory would become "consolidated" and was unlikely to change significantly. This was proven to false when lab experiments on rodents showed that even the act of recalling a memory has possible influences on the memory itself. This means that long-term memories can also be changed overtime. For example when someone tells a story of an experience very often and changes little details every time may lead to them having difficulty recalling the original memory.  
 
+When recalling things from memory people also have a tendency to abstract small details away such as habits they have when performing tasks which may lead to inconsistincies with reality
+
 #### 2.5 
 
-During our apprenticeship interview it seemed as if the person's memory of how to perform the task was in someway affected by the fact that we asked them to reproduce it despite the fact that they claimed to have done it many times and have used blackboard extensively during their time at the UvA.
+During our apprenticeship interview it seemed as if the person's memory of how to perform the task was in someway affected by the fact that we asked them to reproduce it despite the fact that they claimed to have done it many times and have used blackboard extensively during their time at the UvA. We could not exactly see how the technique helped in this situation but this can probably be attributed to the fact that we fell in a number of pitfalls of the apprenticeship method.
 
 # Week 3
 
