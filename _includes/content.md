@@ -344,18 +344,22 @@ Questions:
 
 ## Interview Observations 
 
+Many students seem to complain about the usability of blackboard but from all of the interviews today most seemed to be satisfied with the features provided and they apparently have never been impacted negatively because the UvA uses blackboard. One particular student said that they would also like to have class schedules integrated with blackboard but that was more of just a small preference and there was no real clear reason aside from having access to more features from one place. Two of the students we interviewed also said that they used blackboard extensively which is somewhat in contrast to the interviews from the previous week but this may be due to students being from different faculties where one is more technically inclined than the other.
 
 
 ## Interview Reflection
 
 ### Felix 
 
-I've conducted one interview this week. My interview was a mix of a regular interview and some part of it was dedicated to the apprenticiing the customer paper. There are a few pitfalls when using this method. The interviewer needs to feign ignorance in order to let the customer show him to do the work. I don't think I completely succeeded in this aspect of the exercise. Sometimes I would help the interviewee out by pointing out more efficient ways to do things. When doing this interview I asked the interviewee if she could show me how to access her assignments. I chose this activity because it was always the most prevalent answer whenever we asked what the students used blackboard for. And this is of course one of the main functionalities of the system. Although the answer was good I don't think we used the method's full potential for the interview. There were more interactions possible although a student's interaction with blackboard might be quite simple (see assignments, course info etc...).
+I've conducted one interview this week. My interview was a mix of a regular interview and some part of it was dedicated to the apprenticing the customer paper. There are a few pitfalls when using this method. The interviewer needs to feign ignorance in order to let the customer show him to do the work. I don't think I completely succeeded in this aspect of the exercise. Sometimes I would help the interviewee out by pointing out more efficient ways to do things. When doing this interview I asked the interviewee if she could show me how to access her assignments. I chose this activity because it was always the most prevalent answer whenever we asked what the students used blackboard for. And this is of course one of the main functionalities of the system. Although the answer was good I don't think we used the method's full potential for the interview. There were more interactions possible although a student's interaction with blackboard might be quite simple (see assignments, course info etc...).
 
 ### Joel
 
+In contrast to the previous weak we prepared some questions and topics to cover during the interviews. It seems as if this makes it much easier to conduct an interview but we were still somewhat directionless due to the fact that we did not quite have clear research questions for requirements we wanted to have answered during the interviews. It also seemed that during my interviews in particular I had some issues conducting keeping them going smoothly and found it difficult to drill down into topics.
+
 ## Organize data
 
+To organize our data we created another page 
 
 ## Reading Assignments
 
