@@ -495,15 +495,38 @@ Unfortunately we conducted the interviews before the reading assignments. As the
 
 #### 2.1 
 
+1. I can understand why you feel or think that way would you like to talk about it?
+2. Looking concerned when someone tells something depressing
+3. Looking interested when someone starts talking about something they enjoy
+4. Asking an deep question to clarify what someone is talking about
+5. Acknowledging people when they make significant contributions to the interview/discussion
+
 #### 2.2 
+
+1. Not looking at someone when they are speaking
+2. Having an expressionless look on your face when someone is speaking
+3. Sighing a number of times during a conversation
+4. Repeating a question that a person has already provided an answer too
+5. Sitting slouched and maybe facing away from the interviewee
+
+### Refs 2.1 2.2
+
+Myers, Sharon. "Empathic listening: Reports on the experience of being heard." Journal of Humanistic Psychology 40.2 (2000): 148-173.
+Arnett, Ronald C., and Gordon Nakagawa. "The assumptive roots of empathic listening: A critique." Communication education 32.4 (1983): 368-378.
 
 #### 2.3
 
-Unfortunately we conducted the interviews before the reading assignments. As there was no relation in last week's reading assignments to the interview part of the assignment we did not anticipate that the interview part would be affected by the reading part. 
+Unfortunately we conducted the interviews before the reading assignments. As there was no relation in last week's reading assignments to the interview part of the assignment we did not anticipate that the interview part would be affected by the reading part. I still tried my best evaluating anyway. 
 
+
+The camera angle was not the best but from what I tell he faces the other person. He also asks questions to clarify what they have said. There are often times when he says something to confirm what the other person is saying. He did seem to get distracted sometimes during the interview by something but did apologize. Overall, from what I can tell he does well with verbal cues and at least decently well with non-verbal ones.
 #### 2.4
 
+Memory is a currently seen as a system-wide process. The brain first determines whether a particular stimulus/event is worth remembering and then proceeds to slightly reconstruct itself to accomodate the new memory. The brain changes it's structure throughout the course of one's lifetime based on their experiences. The more you experience things the better you become at remembering them. It was once believed that when the brain adjusted its synapses to a particular long term memory, that memory would become "consolidated" and was unlikely to change significantly. This was proven to false when lab experiments on rodents showed that even the act of recalling a memory has possible influences on the memory itself. This means that long-term memories can also be changed overtime. For example when someone tells a story of an experience very often and changes little details every time may lead to them having difficulty recalling the original memory.  
+
 #### 2.5 
+
+During our apprenticeship interview it seemed as if the person's memory of how to perform the task was in someway affected by the fact that we asked them to reproduce it despite the fact that they claimed to have done it many times and have used blackboard extensively during their time at the UvA.
 
 # Week 3
 
