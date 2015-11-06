@@ -466,9 +466,9 @@ The first 6 verbal cues were found in the thesis: Requirements Elicitation Techn
 
 Non-verbal cues
 
-1.Nodding at the person. 
-* Smiling
-* Be silent until the person starts talking again
+1. Nodding at the person. 
+2. Smiling
+3. Be silent until the person starts talking again
 
 
 These non-verbal cues were found in the thesis: Requirements Elicitation Technique by Nisha Jacob.  
