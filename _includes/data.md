@@ -36,6 +36,35 @@ A project plan contains the following:
 - There are dates and times associated with the deliverable products and activities
 - There is allocation/scheduling of resources
 
+# Notes on digital learning environments
+
+## Blended learning 
+
+What does this term even mean? Apparently some combination of face to face classes and digital methods such as web/mobile apps. 
+
+## Blackboard
+
+Blackboard has the most market share when it comes learning management systems.
+
+The new version of Blackboard learn has a more "modern" user interface.
+
+The UvA has about 20% who don't use blackboard. That's a pretty large amount of the faculty staff.
+
+# DLE Marketshare 2014
+
+1. Blackboard
+2. Moodle
+3. DesireToLearn
+
+# Hogeschool van Amsterdam
+ The Hogeschool van Amsterdam  uses a large amount of different types of learning environments and even has a special department known as "Onderwijs lab" that researches new teaching methods.
+
+*The HvA uses*:
+
+- Chamilo
+- DWLO (Sharepoint)
+- Moodle
+
 # Questions and Answers
 
 ## How satisfied is the UvA with blackboard?
