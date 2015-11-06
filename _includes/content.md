@@ -372,7 +372,7 @@ When we asked this question a few (other) systems came up but the systems that d
 
 No one out of our interviewed students had teachers that deviated from blackboard. This was kind of surprising due to personal experiences with these sort of things but plausible. 
 
-**Question: 		1. What did he/she use instead of blackboard?**
+**Question: 6.1. What did he/she use instead of blackboard?**
 
 No answers. 
 
@@ -386,7 +386,7 @@ One person said he would like an addition to blackboard in the form of a roster 
 All students found blackboard easy to use except for finding files. However noone reported to ever have been unable to find anything without some help from fellow students or the teacher. 
 
 
-**Question:  		1. Has the usability of blackboard ever affected your performance in a course?**
+**Question:  8.1. Has the usability of blackboard ever affected your performance in a course?**
 
 No answers.
 
@@ -396,7 +396,7 @@ No answers.
 None of the interviewers had this problem. 
 
 
-**Question: 		1. Do you feel that was better or worse for the course? How about your performance in the course?**
+**Question: 9.1. Do you feel that was better or worse for the course? How about your performance in the course?**
 
 No answers.
 
@@ -406,7 +406,7 @@ No answers.
 One person said it would help a little bit but that it wouldn't solve the usability problems blackboard is currently experiencing. 
 
 
-**Question: 		1. Have you ever lost time because of the fact you had to become used to or learn a teacher's particular way of working with blackboard/some other system?**
+**Question: 10.1. Have you ever lost time because of the fact you had to become used to or learn a teacher's particular way of working with blackboard/some other system?**
 
 No Answers
 
