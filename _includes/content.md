@@ -346,6 +346,37 @@ Questions:
 
 Many students seem to complain about the usability of blackboard but from all of the interviews today most seemed to be satisfied with the features provided and they apparently have never been impacted negatively because the UvA uses blackboard. One particular student said that they would also like to have class schedules integrated with blackboard but that was more of just a small preference and there was no real clear reason aside from having access to more features from one place. Two of the students we interviewed also said that they used blackboard extensively which is somewhat in contrast to the interviews from the previous week but this may be due to students being from different faculties where one is more technically inclined than the other.
 
+### Questions analysis
+
+**Question: 1. Who are you and what do you study?**
+
+The opening question didn't yield any interesting results. Although there was a pattern in our subjects. Everyone we interviewed this week started to use blackboard at UvA in the last two months, they were all in their first year at UvA. Although we picked people at random based on their availability it could be nice to see if it's possible to get someone with more experience in blackboard. The experienced users could have the same experiences as the relatively new users but they could also have been exposed to more functionalities within blackboard as they followed more courses and courses tend to differentiate somewhat from one another.
+
+**Question: 2. Are you familiar with the blackboard system?**
+
+Also not a shocking conclusion: they were all familiar with blackboard.
+
+**Question: 3. What do you use blackboard for?**
+
+This answer yielded all the same results as last week's interviews. Students use blackboard to access information on their courses, assignements and grades. 
+
+**Question: 4. How often do you consult blackboard?**
+
+
+
+**Question: 5. Do you have any prior experience with a system like blackboard?**
+**Question: 6. Have you ever had a teacher who did not use blackboard primarily?**
+**Question: 		1. What did he/she use instead of blackboard?**
+**Question: 7. Is there something you feel that is blackboard is lacking as a digital learning environment?**
+**Question: 8. Do you find blackboard easy to use?**
+**Question:  		1. Has the usability of blackboard ever affected your performance in a course?**
+**Question: 9. Have you ever found a course difficult because of something related to blackboard?**
+**Question: 		1. Do you feel that was better or worse for the course? How about your performance in the course?**
+**Question: 10. Do you feel that a unified experience is important for courses?**
+**Question: 		1. Have you ever lost time because of the fact you had to become used
+to or learn a teacher's particular way of working with blackboard/
+some other system?**
+
 
 ## Interview Reflection
 
