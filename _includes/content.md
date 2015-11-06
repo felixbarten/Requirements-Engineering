@@ -479,7 +479,7 @@ Cues to stop talking about a subject.
 
 1. Asking to go back to a previous question or subject. 
 2. Acknowledging you understand what the interviewee is trying to say and try to move on to the next question. 
-
+3. Basically to take control back from the interviewee by smiling and nodding and asking gently to move the conversation in another direction
 
 These cues were found in the thesis: Requirements Elicitation Technique by Nisha Jacob.  
 
@@ -489,7 +489,11 @@ Unfortunately we conducted the interviews before the reading assignments. As the
 
 #### 2.4
 
+
+
 #### 2.5 
+
+By using blackboard during the "Apprenticing the customer interview" I had the impression that more subjects or things were pointed out than during an interview without a laptop present. During the interaction with the system a lot of the time there were inquiries or statemetns about buttons of which the user did not know which purpose they served. ANd some minor annoyances that weren't discussed before hand also appeared during this part of the interview. 
 
 ### Joel
 
@@ -520,6 +524,7 @@ Unfortunately we conducted the interviews before the reading assignments. As the
 
 
 The camera angle was not the best but from what I tell he faces the other person. He also asks questions to clarify what they have said. There are often times when he says something to confirm what the other person is saying. He did seem to get distracted sometimes during the interview by something but did apologize. Overall, from what I can tell he does well with verbal cues and at least decently well with non-verbal ones.
+
 #### 2.4
 
 Memory is a currently seen as a system-wide process. The brain first determines whether a particular stimulus/event is worth remembering and then proceeds to slightly reconstruct itself to accomodate the new memory. The brain changes it's structure throughout the course of one's lifetime based on their experiences. The more you experience things the better you become at remembering them. It was once believed that when the brain adjusted its synapses to a particular long term memory, that memory would become "consolidated" and was unlikely to change significantly. This was proven to false when lab experiments on rodents showed that even the act of recalling a memory has possible influences on the memory itself. This means that long-term memories can also be changed overtime. For example when someone tells a story of an experience very often and changes little details every time may lead to them having difficulty recalling the original memory.  
