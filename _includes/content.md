@@ -487,11 +487,15 @@ Unfortunately we conducted the interviews before the reading assignments. As the
 
 #### 2.4
 
+Memory is a process that takes part in the whole brain instead of just parts of it as was believed previously. If an event is worthy of being remembered the Hippocampus and the Frontal Cortex will preserve it in long term memory. Whenever your brain stores new memories the physical structure will change slightly to accomodate the new connection. Whenever you retrieve a memory synapse will form between two cells. The more frequently this connection is used the stronger it will grow. As you have more experiences during your lifetime the total amount of connections increases in the brain. 
 
+However not everything we perceive will be stored in memory. A lot of the experiences will be filtered out by our brain, this keeps us sane as we don't have to keep track of every little detail. Whenever you pay attention (a limited resource) it will enable your brain to save this event if it's deemed significant. To become a memory this event will first be stored in short term memory. The short term memory lasts for about 30 seconds. If the memory is important it will gradually be moved to long term memory. If it's transfered to long term memory it can be remembered indefinitely. 
+
+However memory recall is not perfect by any means. A number of things can go awry when trying to recall a memory. The person can simply fail to recall the memory. This can happen if the memory is not encoded well in the memory. Or the person can alter the memory when recalling it. 
 
 #### 2.5 
 
-By using blackboard during the "Apprenticing the customer interview" I had the impression that more subjects or things were pointed out than during an interview without a laptop present. During the interaction with the system a lot of the time there were inquiries or statemetns about buttons of which the user did not know which purpose they served. ANd some minor annoyances that weren't discussed before hand also appeared during this part of the interview. 
+By using blackboard during the "Apprenticing the customer interview" I had the impression that more subjects or things were pointed out than during an interview without a laptop present. During the interaction with the system a lot of the time there were inquiries or statemetns about buttons of which the user did not know which purpose they served. And some minor annoyances that weren't discussed before hand also appeared during this part of the interview. 
 
 ### Joel
 
