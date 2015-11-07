@@ -491,7 +491,9 @@ Memory is a process that takes part in the whole brain instead of just parts of 
 
 However not everything we perceive will be stored in memory. A lot of the experiences will be filtered out by our brain, this keeps us sane as we don't have to keep track of every little detail. Whenever you pay attention (a limited resource) it will enable your brain to save this event if it's deemed significant. To become a memory this event will first be stored in short term memory. The short term memory lasts for about 30 seconds. If the memory is important it will gradually be moved to long term memory. If it's transfered to long term memory it can be remembered indefinitely. 
 
-However memory recall is not perfect by any means. A number of things can go awry when trying to recall a memory. The person can simply fail to recall the memory. This can happen if the memory is not encoded well in the memory. Or the person can alter the memory when recalling it. 
+However memory recall is not perfect by any means. A number of things can go awry when trying to recall a memory. The person can simply fail to recall the memory. This can happen if the memory is not encoded well in the memory. Or the person can alter the memory when recalling it.
+
+Memories usually aren't reliable as accounts of eyewitnesses as the person will likely omit vital details like colours. The memory might describe a color as "dark" but this would be hard to match to a real object if the colors do not match with the in memory perceived object. Another thing that might happen is called "memory reconstruction" where a person tries to recall a memory after the fact and fills in the gaps in the memory with information obtained afterwards. This would be very bad if the witness knew who the main suspect is for example because then the gaps can be filled and the witness will believe he/she saw the main suspect. 
 
 #### 2.5 
 
