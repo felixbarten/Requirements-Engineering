@@ -541,5 +541,81 @@ During our apprenticeship interview it seemed as if the person's memory of how t
 
 # Week 3
 
+#Assignment
+
+re-plan (group)A RE plan should focus on what you want to know. Think of the questions and claims that are important for you in this project. Identify which questions you have already answered to what extent and how reliable that answer is. Then plan what questions you want to have answered for this and next week and how you will get the answer. Make sure the answers to these questions are important to Richard vd Wurff. For the claims: which could you refute.
+
+Questions could be:
+
+- What characteristics of users and usage are important to consider for the selection of a new system 
+- What are the essential services and features of a blackboard system
+- How good does the current blackboard system support the UvA goals
+- How will the new blackboard system contribute to the goals of UvA 
+- Which type of usability problems will lead to problems in education (make it SMART)  
+- Which type of usability problems might be annoying but have no impact on education
+
+Claims you could try to refute:
+
+- More and better use of educational tools will improve education
+- If the DLO will make educational tools easy to apply, these will be applied more in the classroom  
+- A stratified use of Blackboard will improve student satisfaction
+- A stratified use of Blackboard will improve study behaviour
+
+
+INTERVIEWS: [1 hour] (group)
+
+Conduct three (video-recorded) interviews. Publish these, and a one minute montage as described in the assignment for week 1, on your website. Note you can do many more (non recorded) interviews.
+Focus to both substantiate your vision and to refute your vision.
+1. Conduct your interviews, take some care to prepare your questions.
+2. After each interview examine the information you got. Reflect with your partner. Which questions were productive? What do you know about the reliability of the answers you get? How can you get more reliable information?
+3. For one interview: conduct a test that helps you to justify / refute  your vision
+4. Log interesting findings and effective questions.
+
+PREPARE CO-CREATION: [2 hours]
+
+In the workshop from this week we will discuss some techniques to co-create (design in this case) a new system. You will have to do a co-creation session next week. Please prepare for this. Activities: read, learn, plan. Output: a script for the co-creation session 
+
+## Interviews
+
+## Interview findings
+
+## Interview Reflection
+## Co-Creation
+
+
+## Reading Assignments
+
+Reading questions:
+
+3.1 Sense making: Read the materials about Weick and Klein. Talk to four different students about this course, and find differences about their perception about this assignment and why it helps them achieve the learning goals. Try to explain these differences using the articles of Weick and Klein.
+3.2 Decisions: reflect on where you spend your time on the past week. Can you still account for your time spent? Did you spent it wisely? Did you make explicit decisions about it? Can you explain your decision making using the model of naturalistic decision making? 
+3.3 Define the goals for the successor of Blackboard using the notation of van Lamsweerde. Quickly map how much you know how to achieve these goals.  
+
+
+Required Reading:
+
+Daniel Kahneman: Thinking, Fast and Slow, (pp. 156-208)
+
+Weick sense making— ENACTED SENSEMAKING IN CRISIS SITUATIONS
+
+Klein naturalistic decision making  http://intra.iam.hva.nl/content/1112/verdieping1/models_en_processes/intro-en-materiaal/Klein_2008_HF_NDM.pdf
+
+Van Lamsweerde, Requirements Engineering Chapter 7, Goal Orientation in Requirements Engineering (pp. 259-285) 
+
+Ad 3.1 and 3.2
+
+As a requirements engineer you are confronted with a lot of new information. Often stakeholders tell us their vision about what is required. We make sense of this info, make a coherent story, filtering out a lot of info. 
+A good requirements engineer will be able to reflect about her sense making process, and make conscious decisions about which steps to take. 
+Your job is to make sure the beliefs that are most vital for the success of the software are credible enough. And that you come to understand the fine line between success and failure, as the most vital requirements are those that make this knowledge explicit.
+The papers you are required to read are the seminal papers. Much work has been done in the areas of sense making and decision making since. 
+
+Ad 3.3
+
+Goal oriented requirements engineering is seen as one of the most important contributions to keep track of your requirements process, and make sure the system that satisfies the requirements will in the end satisfy the business goals.
+
+### Felix 
+
+### Joel
+
 # Week 4
 
