@@ -575,6 +575,21 @@ PREPARE CO-CREATION: [2 hours]
 
 In the workshop from this week we will discuss some techniques to co-create (design in this case) a new system. You will have to do a co-creation session next week. Please prepare for this. Activities: read, learn, plan. Output: a script for the co-creation session 
 
+## RE plan
+
+Questions we've already answered in this project: 
+
+- What characteristics of users and usage are important to consider for the selection of a new system 
+    We've come to the conclusions that all the students that use the system do so to access information about courses, look at assignments, deliver assignments and get their grades. This answer is only valid for the students but the students don't represent the whole range of end users. We have no data about what the lecturers want when they have interactions with the system.
+- Which type of usability problems might be annoying but have no impact on education?
+    We've asked questsions to access this in the previous weeks. Almost every student has trouble finding information on blackboard. However noone claimed to have suffered less performance during a course because of it. These answers came from every student we interviewed and are likely to be reliable as a whole. However the sample size is too small to be sure. 
+
+What questions we would like to answer:
+
+- How does blackboard usage affect course evaluations? 
+    This question might be easier to calculate with statistics from the blackboard system and UvA's statistics about the gradings of courses.
+    These statistics could only answer how much content was made available through blackboard though, not how well blackboard was utilized during the course. With asking these questions we hope to get some answers and maybe some preliminary data on how much blackboard matters when evaluating the grade for a course. 
+- 
 ## Interviews
 
 ## Interview findings
