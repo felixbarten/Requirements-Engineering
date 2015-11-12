@@ -655,6 +655,12 @@ From the students we interviewed some of them did not claim to be impacted negat
 
 The interviews this week resulted in different results because we managed to interview one teaching assistant and one active teacher of the university. The provided us with more information than in the previous weeks in which we only interviewed other students.
 
+### Felix
+
+I conducted two interviews this week. The interviews were with a graduated Physics student who is now a Teaching Assistant (TA) and with a PhD student of AI and Law. It was nice to interview people with a different perspective on the blackboard system. In previous weeks we mostly interviewed students with almost no prior experience or a rather short span in which they used blackboard for their studies. In my opinion the interviews I conducted went reasonably well. I think we got some added value by also receiving the teacher's information as they are also a major stakeholder in the blackboard system. 
+
+### Joel
+
 
 ## Co-Creation
 
