@@ -590,6 +590,46 @@ What questions we would like to answer:
     This question might be easier to calculate with statistics from the blackboard system and UvA's statistics about the gradings of courses.
     These statistics could only answer how much content was made available through blackboard though, not how well blackboard was utilized during the course. With asking these questions we hope to get some answers and maybe some preliminary data on how much blackboard matters when evaluating the grade for a course. 
 - 
+
+These are questions and claims we sought to answer/prove/refute this week:
+
+- Which type of usability problems might be annoying but have no impact on education
+
+  - What type of usability problems have students experienced while working with blackboard?
+
+- Which type of usability problems will lead to problems in education (make it SMART)  
+
+  - Has a student at any point in time have their performance during a course be negatively impacted due to a usability issue with blackboard?
+
+- A stratified use of Blackboard will improve student satisfaction
+
+  - Does blackboard in any way influence the student course evaluations?
+
+    - Has a student rated a number of courses very highly that made little of use of blackboard?
+
+    - Does the evaluation form have any questions that refer to the use of blackboard during the course?
+
+- A stratified use of Blackboard will improve study behaviour
+
+  - How does a DLE/blackboard affect the performance of students?
+  
+    -  Are there students which have been affected negatively by blackboard? And in what degree? E.G due to usability issues
+
+- More and better use of educational tools will improve education
+
+  - What are concrete examples of the use of educational tools affecting education positively?
+
+  - Are there concrete examples of the use of educational tools affecting education negatively?
+
+- If the DLO will make educational tools easy to apply, these will be applied more in the classroom
+
+  - Does blackboard currently make it difficult to use educational tools?
+
+  - How eager are teachers to use educational tools?
+
+
+
+
 ## Interviews
 
 ### Interview 1
@@ -609,7 +649,13 @@ What questions we would like to answer:
 
 ## Interview findings
 
+From the students we interviewed some of them did not claim to be impacted negatively and even one them said it impacted it them positively because it provided them easy access to all course materials. There were also no students who said that the use of blackboard or lack of use of blackboard affected them as they were filling in the course evaluation form for their worse and best evaluated subject. Due to the fact that we found no students who have had teachers that did use educational tools that were not blackboard or their own website it was not really possible to determine if the use of educational tools result in the improvement of education. We did manage to find a Teacher who seemed to be quite frustrated with the usability of blackboard which is a stark contrast to the other people we have interviewed in the best. The teacher also found it difficult to understand why this particular faculty of the UvA would use a system such as blackboard with an outdated user interface. 
+
 ## Interview Reflection
+
+The interviews this week resulted in different results because we managed to interview one teaching assistant and one active teacher of the university. The provided us with more information than in the previous weeks in which we only interviewed other students.
+
+
 ## Co-Creation
 
 
