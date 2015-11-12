@@ -691,6 +691,12 @@ Goal oriented requirements engineering is seen as one of the most important cont
 
 ### Felix 
 
+#### 3.1
+
+Olav
+
+"I think the questions are good but I'm unsure why they aren't accepted for the group work. Otherwise I think they're good questions."
+
 ### Joel
 
 # Week 4
