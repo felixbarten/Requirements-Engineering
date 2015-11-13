@@ -811,6 +811,13 @@ This assignment (the replacement of blackboard) will allow me to learn in which 
 
 My perception about the assignment is the following: I like that the assignment is something we as students can relate to. It's familiar because everyone is required to use the blackboard system and will know the good and bad points of blackboard from a  user's perspective. I think this will increase involvement in the exercise as the results could possibly be relayed to the people in charge of the replacing of the system.
 
+- Student 5:
+
+Course: SOMEHOW interesting but still a bit confusing. You need to go as far as u can in order to get a deep understanding
+of what is an actual requirement and what is not and for sure provide with a good reasoning.
+
+Assignment: the interesting part of the assignment is that it is real, meaning that it's true that we are looking for the successor of bb, and so there is need to define the system-to-be(in contradiction to architecture, where the assignment was 'virtual'). big disadvantage though: time restriction, which i believe might lead us to inaccurate results.
+
 - Analysis
 
 The differences I found was that the majority of students focus on the practical portion of the statement while talking about their perception. These students were also the ones begun talking by first explicitly stating their goal and explaining how this course would help them achieve it but another student begun by talking about the course in general and everything he has learned so far. It seems as if the students who focused on the practical portion of the course while describing their views are more interested in gaining experience which they can refer to in future when they are actually gathering requirements in the real world. Referring to past experiences and taking decisions based on these situations is very similar to the NDM model described in the paper by Gary Klein, the recognition-primed decision model. Another student described issues with the time allotted to the course assignments and likened it to a "small crisis" in which it is required that they find the core requirements of the assignment which is somewhat discussed in Weick's paper on enactment. 
