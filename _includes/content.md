@@ -701,16 +701,14 @@ Goal oriented requirements engineering is seen as one of the most important cont
 
 Before asking the questions to other students I compiled my own answer first: 
 
-```
 
-I chose to enroll in the Msc Software Engineering to understand more about Software Engineering. This course, requirements engineering will enable me in part to enable my goal. The Requirements engineering course will teach me valuable lessons about when you should doubt yourself and how to come to certain conclusions. A part of working as a software engineer is to gather information about what your client (may it be your boss or external clients) wants from a system. While the information on how to do this was supplied before in previous studies I think there is a lot more to be learned about this information gathering process. 
+	I chose to enroll in the Msc Software Engineering to understand more about Software Engineering. This course, requirements engineering will enable me in part to enable my goal. The Requirements engineering course will teach me valuable lessons about when you should doubt yourself and how to come to certain conclusions. A part of working as a software engineer is to gather information about what your client (may it be your boss or external clients) wants from a system. While the information on how to do this was supplied before in previous studies I think there is a lot more to be learned about this information gathering process. 
+	
+	This assignment (the replacement of blackboard) will allow me to learn in which areas I can improve in order to get the right requirements when gathering information about a system. Assessing where your knowledge or skill are lacking in a certain area is the first step to improve the skills so I think this will complement my learning goals as I will know which activities to assign more attention to. Another interesting aspect of the assignment are the mandatory interview sessions each week. These interviewing sessions while slightly annoying at first because my lack of interviewing experience and asking strangers to participate will provide valuable experience later when asking customers about assignments while sitting in on meetings for example. 
+	
+	
+	My perception about the assignment is the following: I like that the assignment is something we as students can relate to. It's familiar because everyone is required to use the blackboard system and will know the good and bad points of blackboard from a  user's perspective. I think this will increase involvement in the exercise as the results could possibly be relayed to the people in charge of the replacing of the system. 
 
-This assignment (the replacement of blackboard) will allow me to learn in which areas I can improve in order to get the right requirements when gathering information about a system. Assessing where your knowledge or skill are lacking in a certain area is the first step to improve the skills so I think this will complement my learning goals as I will know which activities to assign more attention to. Another interesting aspect of the assignment are the mandatory interview sessions each week. These interviewing sessions while slightly annoying at first because my lack of interviewing experience and asking strangers to participate will provide valuable experience later when asking customers about assignments while sitting in on meetings for example. 
-
-
-My perception about the assignment is the following: I like that the assignment is something we as students can relate to. It's familiar because everyone is required to use the blackboard system and will know the good and bad points of blackboard from a  user's perspective. I think this will increase involvement in the exercise as the results could possibly be relayed to the people in charge of the replacing of the system. 
-
-```
 Student 1:
 
 "I think the questions of the assignment are good but I'm not sure why they aren't accepted for the group work. Otherwise I think they're good questions."
@@ -769,23 +767,23 @@ Goals of blackboard successor:
 
 Van Lamsweerde notation: 
 
-Achieve[Provide access to courses] 
-Achieve[Provide access to materials]
-Achieve[Provide Grade system]
-Achieve[Provide Forums]
-Achieve[Provide Assignments]
-Achieve[Provide Assignment delivery mechanism]
-Achieve[Provide Quizzes]
-Achieve[Provide general information]
-Achieve[Flexible Course Layout]
-Maximize[Searchability] 
-Maximize[Compatability with mobile devices]
-Maximize[Performance] 
-Maximize[Usability]
-Maximize[Maximize the student's performance]
+* Achieve[Provide access to courses] 
+* Achieve[Provide access to materials]
+* Achieve[Provide Grade system]
+* Achieve[Provide Forums]
+* Achieve[Provide Assignments]
+* Achieve[Provide Assignment delivery mechanism]
+* Achieve[Provide Quizzes]
+* Achieve[Provide general information]
+* Achieve[Flexible Course Layout]
+* Maximize[Searchability] 
+* Maximize[Compatability with mobile devices]
+* Maximize[Performance] 
+* Maximize[Usability]
+* Maximize[Maximize the student's performance]
 
 
-[if Achieve [all subgoals above] sooner-or-later Provide a good learning environment 
+* [if Achieve [all subgoals above] sooner-or-later Provide a good learning environment 
 
 
 
