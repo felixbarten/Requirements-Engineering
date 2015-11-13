@@ -658,6 +658,7 @@ I conducted two interviews this week. The interviews were with a graduated Physi
 
 ### Joel
 
+The one interview I did this week was kind of disappoiting in the sense that I couldn't use all of the questions I prepared beforehand due to the student not quite remembering the evaluations that they have given to courses and forced me to somewhat improvise. I did not do as well as I had liked but I did manage to learn that blackboard was unlikely to have influenced their course evaluations. Near the end I also managed to steer the interview in a direction that allowed me to gain more information about how the student feels about teacher's who use their own website instead of blackboard and how he preferred that as it showed that the teachers we more dedicated in providing simple access to course related documents.
 
 ## Co-Creation
 
