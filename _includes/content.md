@@ -699,9 +699,23 @@ Goal oriented requirements engineering is seen as one of the most important cont
 
 #### 3.1
 
-Olav
+
+
+
+Olav:
 
 "I think the questions are good but I'm unsure why they aren't accepted for the group work. Otherwise I think they're good questions."
+
+Edward:
+
+"My interpretation of the RE assignment is that we should conceive a description of how the UvA can use (modern) technology to facilitate learning and knowledge sharing. Which aspects are important to achieve this — and most important of all — which aspects do not. Should the university rely on common systems or employ a system that is tailored to how the university sees fit? We read a lot of literature to help us guide these choices.  Not all literature is equally important, but this is a good thing since we need to articulate why it is applicable to use certain concepts contained in literature. We are dissecting the body of available knowledge and this learns us to evaluate what we can use and what we can’t."
+
+Joel:
+
+"When I choose to to continue studying and start this Master's programme, I primarily wanted to improve myself as a software engineer. This also extend to my learning goals in regards to the course "Requirements Engineering". My learning goal is primarily to find out what possible pitfalls there are during the requirements gathering process. Furthermore, I would like to improve my technique for when it comes to understanding requirements. This assignment gives me an opportunity to find out what my own weaknesses are and what I can do to help mitigate them."
+
+
+
 
 ### Joel
 
