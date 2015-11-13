@@ -662,6 +662,32 @@ The one interview I did this week was kind of disappoiting in the sense that I c
 
 ## Co-Creation
 
+During our co-creation session we seek to prove/refute the following claims:
+
+
+- Which type of usability problems might be annoying but have no impact on education
+
+  - What type of usability problems have students experienced while working with blackboard?
+
+- Which type of usability problems will lead to problems in education (make it SMART)  
+
+  - Has a student at any point in time have their performance during a course be negatively impacted due to a usability issue with blackboard?
+
+
+
+The goal of the workshop will be to design the most unusable digital learning environment system ever.
+
+To do this we will do the following:
+
+1. Seperate the workshop members into groups (probably 6 in total).
+
+2. Use force-fitting and assign each group a different aspect of the DLE (These will be the basic functionality of blackboard that we have gathered from our interviews)
+
+3. The groups must then come up with steps required for that part of the system with intention of ending up with a system with lowest usability level possible. (Time limit of 15 minutes)
+
+4. Once each group is finished. We will go through each scenario and decide which ones are worst when it comes to a user's productivity along with asking other people in the workshop of ways they can think of making the situations worse.
+
+
 
 ## Reading Assignments
 
