@@ -702,40 +702,55 @@ Goal oriented requirements engineering is seen as one of the most important cont
 Before asking the questions to other students I compiled my own answer first: 
 
 ```
+
 I chose to enroll in the Msc Software Engineering to understand more about Software Engineering. This course, requirements engineering will enable me in part to enable my goal. The Requirements engineering course will teach me valuable lessons about when you should doubt yourself and how to come to certain conclusions. A part of working as a software engineer is to gather information about what your client (may it be your boss or external clients) wants from a system. While the information on how to do this was supplied before in previous studies I think there is a lot more to be learned about this information gathering process. 
 
 This assignment (the replacement of blackboard) will allow me to learn in which areas I can improve in order to get the right requirements when gathering information about a system. Assessing where your knowledge or skill are lacking in a certain area is the first step to improve the skills so I think this will complement my learning goals as I will know which activities to assign more attention to. Another interesting aspect of the assignment are the mandatory interview sessions each week. These interviewing sessions while slightly annoying at first because my lack of interviewing experience and asking strangers to participate will provide valuable experience later when asking customers about assignments while sitting in on meetings for example. 
 
 
 My perception about the assignment is the following: I like that the assignment is something we as students can relate to. It's familiar because everyone is required to use the blackboard system and will know the good and bad points of blackboard from a  user's perspective. I think this will increase involvement in the exercise as the results could possibly be relayed to the people in charge of the replacing of the system. 
+
 ```
-Olav:
+Student 1:
 
 "I think the questions of the assignment are good but I'm not sure why they aren't accepted for the group work. Otherwise I think they're good questions."
 
-Edward:
+Student 2:
 
 "My interpretation of the RE assignment is that we should conceive a description of how the UvA can use (modern) technology to facilitate learning and knowledge sharing. Which aspects are important to achieve this — and most important of all — which aspects do not. Should the university rely on common systems or employ a system that is tailored to how the university sees fit? We read a lot of literature to help us guide these choices.  Not all literature is equally important, but this is a good thing since we need to articulate why it is applicable to use certain concepts contained in literature. We are dissecting the body of available knowledge and this learns us to evaluate what we can use and what we can’t."
 
-Joel:
+Student 3:
 
 "When I choose to to continue studying and start this Master's programme, I primarily wanted to improve myself as a software engineer. This also extend to my learning goals in regards to the course "Requirements Engineering". My learning goal is primarily to find out what possible pitfalls there are during the requirements gathering process. Furthermore, I would like to improve my technique for when it comes to understanding requirements. This assignment gives me an opportunity to find out what my own weaknesses are and what I can do to help mitigate them."
 
-Nick:
+Student 4:
 
 "My perception about the assignment is that we should be critical in our thinking about requirements in order to discover "true" requirements. I don't know how exactly how this will fit with my overall learning goals."
+
+##### Analysis
 
 
 
 
 #### 3.2
 
+Our activities this week: 
+
+1. The first thing we did was reading through the assignments to make sure there were no interview related questions in the reading part of the assignment. This caught us by surprise last week and we did not want the same thing to occur this week. 
+2. The second thing we spent time on this week is analyzing which questions we could relatively reliably answer. 
+3. After analyzing which knowledge we already had we looked at the things in the questions we were asking questions about but could not reliably answer. 
+4. Then we looked at how we could improve the reliability of the answers by changing or adding questions to our interview question list.
+5. After doing this and revising our questions list with new material we set out to do video interviews. 
+6. We looked for interview candidates for about 10 minutes and afterwards reliably found three candidates in quick succession.
+7. We conducted the interviews and reflected on the effectiveness of the questions. 
+
+We made explicit decisions to do 1,2,3,4. We think we spent our time wisely to come up with the desired results before thursday's workshop. 
 
 #### 3.3
 
-Goals of blackboard:
+Goals of blackboard successor:
 
-* Provide a good learning evironment
+* Provide a good learning environment
 	* Provide access to courses
 	* Provide access to materials
 	* Provide Grade system
@@ -744,8 +759,33 @@ Goals of blackboard:
 	* Provide Assignment delivery mechanism
 	* Provide Quizzes
 	* Provide general information
-* Help the student study (soft goal) 
-* 
+* Maximize the student's performance (soft goal) 
+* Performance
+* Usability
+* Compatability with mobile devices
+* Searchability
+* Flexible course layout
+
+
+Van Lamsweerde notation: 
+
+Achieve[Provide access to courses] 
+Achieve[Provide access to materials]
+Achieve[Provide Grade system]
+Achieve[Provide Forums]
+Achieve[Provide Assignments]
+Achieve[Provide Assignment delivery mechanism]
+Achieve[Provide Quizzes]
+Achieve[Provide general information]
+Achieve[Flexible Course Layout]
+Maximize[Searchability] 
+Maximize[Compatability with mobile devices]
+Maximize[Performance] 
+Maximize[Usability]
+Maximize[Maximize the student's performance]
+
+
+[if Achieve [all subgoals above] sooner-or-later Provide a good learning environment 
 
 
 
