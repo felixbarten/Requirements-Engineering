@@ -801,17 +801,29 @@ Goals of blackboard successor:
 Van Lamsweerde notation: 
 
 * Achieve[Provide access to courses] 
+	The system should contain a way for teachers to add courses and let students enroll in said courses. 
 * Achieve[Provide access to materials]
+	The system should contain a way to provide access to course materials. 
 * Achieve[Provide Grade system]
+	The system should contain the functionality to display the grades for a course to a student. 
 * Achieve[Provide Forums]
+	The system should contain some forum functionality. 
 * Achieve[Provide Assignments]
+	The system should allow teachers to assign assignments to students. 
 * Achieve[Provide Assignment delivery mechanism]
+	The system should have the ability to submit assignments (and receive assignments obviously) 
 * Achieve[Provide Quizzes]
+	The system should contain the ability to give quizzes to enrolled students. 
 * Achieve[Provide general information]
+	The system should be able to supply general information about courses 
 * Achieve[Flexible Course Layout]
+	The layouts of courses should not be constrainted to pre-defined sets of designs. The system should allow the teacher to deviate from possible pre defined designs if that is wanted. 
 * Maximize[Searchability] 
+	The successor should allow students to search for information across courses he/she has access to. 
 * Maximize[Compatability with mobile devices]
-* Maximize[Performance] 
+	The sytstem should provide a method of accessing the system from a mobile device. The system will need to be setup in a way that this will not break with mobile devices. 
+* Maximize[Performance]
+	The performance of the system must be acceptable. 
 * Maximize[Usability]
 * Maximize[Maximize the student's performance]
 
