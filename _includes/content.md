@@ -625,8 +625,6 @@ These are questions and claims we sought to answer/prove/refute this week:
   - How eager are teachers to use educational tools?
 
 
-
-
 ## Interviews
 
 ### Interview 1
@@ -686,6 +684,15 @@ To do this we will do the following:
 3. The groups must then come up with steps required for that part of the system with intention of ending up with a system with lowest usability level possible. (Time limit of 15 minutes)
 
 4. Once each group is finished. We will go through each scenario and decide which ones are worst when it comes to a user's productivity along with asking other people in the workshop of ways they can think of making the situations worse.
+
+
+Expectations:  
+
+- No one can really come up with a nonusable scenario (Difficult to come).
+
+- We end up with a nice set of functionalities with a low level of usability and we can analyze these to see which of these are present in blackboard and actually affect students.
+
+- We end up up with very differing opinions on usability when going through the list of scenarios at the end of the session which shows how subjective usability can be.
 
 
 
