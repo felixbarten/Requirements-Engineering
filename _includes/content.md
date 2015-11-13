@@ -721,7 +721,7 @@ Student 2:
 
 Student 3:
 
-"When I choose to to continue studying and start this Master's programme, I primarily wanted to improve myself as a software engineer. This also extend to my learning goals in regards to the course "Requirements Engineering". My learning goal is primarily to find out what possible pitfalls there are during the requirements gathering process. Furthermore, I would like to improve my technique for when it comes to understanding requirements. This assignment gives me an opportunity to find out what my own weaknesses are and what I can do to help mitigate them."
+"When I choose to to continue studying and start this Master's programme, I primarily wanted to improve myself as a software engineer. This also extends to my learning goals in regards to the course "Requirements Engineering". My learning goal is primarily to find out what possible pitfalls there are during the requirements gathering process. Furthermore, I would like to improve my technique for when it comes to understanding requirements. This assignment gives me an opportunity to find out what my own weaknesses are and what I can do to help mitigate them."
 
 Student 4:
 
