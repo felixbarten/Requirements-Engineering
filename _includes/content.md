@@ -699,12 +699,19 @@ Goal oriented requirements engineering is seen as one of the most important cont
 
 #### 3.1
 
+Before asking the questions to other students I compiled my own answer first: 
+
+```
+I chose to enroll in the Msc Software Engineering to understand more about Software Engineering. This course, requirements engineering will enable me in part to enable my goal. The Requirements engineering course will teach me valuable lessons about when you should doubt yourself and how to come to certain conclusions. A part of working as a software engineer is to gather information about what your client (may it be your boss or external clients) wants from a system. While the information on how to do this was supplied before in previous studies I think there is a lot more to be learned about this information gathering process. 
+
+This assignment (the replacement of blackboard) will allow me to learn in which areas I can improve in order to get the right requirements when gathering information about a system. Assessing where your knowledge or skill are lacking in a certain area is the first step to improve the skills so I think this will complement my learning goals as I will know which activities to assign more attention to. Another interesting aspect of the assignment are the mandatory interview sessions each week. These interviewing sessions while slightly annoying at first because my lack of interviewing experience and asking strangers to participate will provide valuable experience later when asking customers about assignments while sitting in on meetings for example. 
 
 
-
+My perception about the assignment is the following: I like that the assignment is something we as students can relate to. It's familiar because everyone is required to use the blackboard system and will know the good and bad points of blackboard from a  user's perspective. I think this will increase involvement in the exercise as the results could possibly be relayed to the people in charge of the replacing of the system. 
+```
 Olav:
 
-"I think the questions are good but I'm unsure why they aren't accepted for the group work. Otherwise I think they're good questions."
+"I think the questions of the assignment are good but I'm not sure why they aren't accepted for the group work. Otherwise I think they're good questions."
 
 Edward:
 
@@ -714,6 +721,31 @@ Joel:
 
 "When I choose to to continue studying and start this Master's programme, I primarily wanted to improve myself as a software engineer. This also extend to my learning goals in regards to the course "Requirements Engineering". My learning goal is primarily to find out what possible pitfalls there are during the requirements gathering process. Furthermore, I would like to improve my technique for when it comes to understanding requirements. This assignment gives me an opportunity to find out what my own weaknesses are and what I can do to help mitigate them."
 
+Nick:
+
+"My perception about the assignment is that we should be critical in our thinking about requirements in order to discover "true" requirements. I don't know how exactly how this will fit with my overall learning goals."
+
+
+
+
+#### 3.2
+
+
+#### 3.3
+
+Goals of blackboard:
+
+* Provide a good learning evironment
+	* Provide access to courses
+	* Provide access to materials
+	* Provide Grade system
+	* Provide Forums
+	* Provide Assignments
+	* Provide Assignment delivery mechanism
+	* Provide Quizzes
+	* Provide general information
+* Help the student study (soft goal) 
+* 
 
 
 
