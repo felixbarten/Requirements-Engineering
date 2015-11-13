@@ -268,9 +268,7 @@ Conduct three (video-recorded) interviews. Publish these, and a one minute monta
 ORGANIZE: [2 hours] (group)
 You begin to gather quite a lot of data. Take one to two hours to set up your administration in such a way that it is easy to continuously restructure your data. Discuss the ideas from the paper on Contextual Design how you structure your data here.
 
-## Research
 
-=====
 
 ## Interview preparation 
 
@@ -589,7 +587,6 @@ What questions we would like to answer:
 - How does blackboard usage affect course evaluations? 
     This question might be easier to calculate with statistics from the blackboard system and UvA's statistics about the gradings of courses.
     These statistics could only answer how much content was made available through blackboard though, not how well blackboard was utilized during the course. With asking these questions we hope to get some answers and maybe some preliminary data on how much blackboard matters when evaluating the grade for a course. 
-- 
 
 These are questions and claims we sought to answer/prove/refute this week:
 
@@ -670,7 +667,9 @@ I conducted two interviews this week. The interviews were with a graduated Physi
 Reading questions:
 
 3.1 Sense making: Read the materials about Weick and Klein. Talk to four different students about this course, and find differences about their perception about this assignment and why it helps them achieve the learning goals. Try to explain these differences using the articles of Weick and Klein.
+
 3.2 Decisions: reflect on where you spend your time on the past week. Can you still account for your time spent? Did you spent it wisely? Did you make explicit decisions about it? Can you explain your decision making using the model of naturalistic decision making? 
+
 3.3 Define the goals for the successor of Blackboard using the notation of van Lamsweerde. Quickly map how much you know how to achieve these goals.  
 
 
@@ -718,6 +717,60 @@ Joel:
 
 
 ### Joel
+
+*3.1 Sense making: Read the materials about Weick and Klein. Talk to four different students about this course, and find differences about their perception about this assignment and why it helps them achieve the learning goals. Try to explain these differences using the articles of Weick and Klein.*
+
+- Student 1:
+
+My learning goals are to acquire knowledge and getting a degree. This course focuses in my opinion very much on learning by self-reflection. By being confronted with your own mistakes and having discussions within or outside your own team, you will be able to learn more instead of the teacher telling us what his solution is to requirements engineering. For this assignment we need to use many techniques for decision making which help us to acquire a lot of knowledge in the field of requirements engineering.
+
+- Student 2: 
+
+I believe that this assignment helps me achieve my goals because it really lets me learn from practical experience rather than only studying the theory. By applying my knowledge in practice I myself can review my work after and see what I did right and wrong. And by doing practical work I can more quickly learn from my mistakes and thus quickly recover from them. I also believe that due to the limited time we have to make the all assignments (because of the dead line on Friday) we need to use our time really efficiently. And due to the short deadline, you could say there is a small crisis situation going on because of all the work which has to be done relatively quickly. This requires that we really think about the things we want to achieve to satisfy the core of the assignments and not waste more time on “gold plating" our assignments.
+
+- Student 3:
+
+Before taking on this course I was always curious about the techniques a requirement engineer should undertake in order to find out the needs for a software system. I knew conducting interviews was one of the ways to go for, but I never would have realized that there existed a lot of possibilities to gather information from users. At first we were not good at interviewing. The amount of information we got from our interviewees in the first week was very small and they were basically all the information we already knew, but as we started to read the materials on the weekly basis and also participating in the lectures and workshops and using the feedback form our teachers we began to learn quite a lot ways for acquiring useful information from the users. For example we started to get familiar with how the mind works and how the information provided from users may be either incomplete or not even truthful. We began to learn how to use cognitive aids and some cues in order to help the interviewees to provide in formation as much as possible by triggering their minds. One of the main things that helped us achieve our learning goals was using all these information in practice by conducting interviews.
+
+- Student 4:
+
+I chose to enroll in the Msc Software Engineering to understand more about Software Engineering. This course, requirements engineering will enable me in part to enable my goal. The Requirements engineering course will teach me valuable lessons about when you should doubt yourself and how to come to certain conclusions. A part of working as a software engineer is to gather information about what your client (may it be your boss or external clients) wants from a system. While the information on how to do this was supplied before in previous studies I think there is a lot more to be learned about this information gathering process. 
+
+This assignment (the replacement of blackboard) will allow me to learn in which areas I can improve in order to get the right requirements when gathering information about a system. Assessing where your knowledge or skill are lacking in a certain area is the first step to improve the skills so I think this will complement my learning goals as I will know which activities to assign more attention to. Another interesting aspect of the assignment are the mandatory interview sessions each week. These interviewing sessions while slightly annoying at first because my lack of interviewing experience and asking strangers to participate will provide valuable experience later when asking customers about assignments while sitting in on meetings for example. 
+
+My perception about the assignment is the following: I like that the assignment is something we as students can relate to. It's familiar because everyone is required to use the blackboard system and will know the good and bad points of blackboard from a  user's perspective. I think this will increase involvement in the exercise as the results could possibly be relayed to the people in charge of the replacing of the system.
+
+- Analysis
+
+The differences I found was that the majority of students focus on the practical portion of the statement while talking about their perception. These students were also the ones begun talking by first explicitly stating their goal and explaining how this course would help them achieve it but another student begun by talking about the course in general and everything he has learned so far. It seems as if the students who focused on the practical portion of the course while describing their views are more interested in gaining experience which they can refer to in future when they are actually gathering requirements in the real world. Referring to past experiences and taking decisions based on these situations is very similar to the NDM model described in the paper by Gary Klein, the recognition-primed decision model. Another student described issues with the time allotted to the course assignments and likened it to a "small crisis" in which it is required that they find the core requirements of the assignment which is somewhat discussed in Weick's paper on enactment. 
+
+
+*3.2 Decisions: reflect on where you spend your time on the past week. Can you still account for your time spent? Did you spent it wisely? Did you make explicit decisions about it? Can you explain your decision making using the model of naturalistic decision making?* 
+
+This week I spent my time the majority of my time on deciding deciding which questions we plan on answering this week and attempting to prepare for the weekly interviews so that we can come up with answers for these questions. I am not confident that it was the best way to spend my time because I still find it difficult to interview people. But we did gain some data that I feel we can use to answer our questions for this week. I don't believe I could explain my decision using the NDM model but it looks more as me attempting to understand the situation by first taking action and dealing with the results that arise. I think it is a form of enactment.
+
+*3.3 Define the goals for the successor of Blackboard using the notation of van Lamsweerde. Quickly map how much you know how to achieve these goals.*
+
+_Hard Goals:_
+<dl>
+  <dt> 1. Achieve[StudentAccessCourseMaterial] </dt>
+  <dd> A student must be able to access the materials of a course (The system should be provide students with access to course materials similar to the way students can currently download documents from blackboard)</dd>
+  <dt> 2. Achieve[TeacherDistributeCourseMaterial] </dt>
+  <dd> A teacher must be able to distribute course information and assignments (Teachers must be able to provide documents using the system)</dd>
+  <dt> 3. Achieve[TeacherMustTailorCourse] </dt>
+  <dd> A teacher must be able to organize their information in the way that best suits their course (The system should provide some level of flexibility so that teachers can organize their documents as best they see fit.)</dd>
+  <dt> 4. Achieve[AdministrationCourseMaterial] </dt>
+  <dd> The system-to-be should automate processes pertaining to the distribution of course material (The system should alleviate issues of providing course material in a traditional way such as for example giving a document to student who was sick and thus not present during a lecture.)</dd>
+</dl>
+
+
+_Soft Goals:_
+<dl>
+    <dt> 1. Minimize[CourseSetupTime]</dt>
+    <dd> After thinking thoroughly about the structure of a course a teacher should be able to realise that structure in the system-to-be in as little time as possible (No information on how to achieve this) </dd>
+    <dt> 2. Minimize[DifficultyFindingCourseMaterial]</dt>
+    <dd> A student must be able to easily find material pertaining to a course (No information.)</dd>
+</dl>
 
 # Week 4
 
