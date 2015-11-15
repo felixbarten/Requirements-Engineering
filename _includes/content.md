@@ -765,7 +765,7 @@ Yet sometimes I really feel lost as to what I should do, I feel like I have been
 
 ##### Analysis
 
-
+I'm not sure how to analyze these differences. One similarity is that different people stated they could possibly not fulfill their learning goals with this course. 
 
 
 #### 3.2
