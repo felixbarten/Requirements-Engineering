@@ -758,6 +758,11 @@ Student 4:
 
 "My perception about the assignment is that we should be critical in our thinking about requirements in order to discover "true" requirements. I don't know how exactly how this will fit with my overall learning goals."
 
+Student 5:
+
+"By doing activities each week that we read about from the literature and different papers, listening to real life examples of requirements engineering and getting tactics for elicitation from different guest lecturers, really helps me to get most out of the course material. I feel that the case we are working on (a new BlackBoard system) is something that I can relate to because I have used it. The interviews that are conducted every week really help me shape my interviewing skills, see where I have gone wrong in the past and know how to more easily extract knowledge from people. The book about the psychology of the human mind is really interesting, since you learn about this through the many examples put forth. Even though I did not have a goal of learning about that in the beginning, the course has influenced my goals and perception of what I expect.
+Yet sometimes I really feel lost as to what I should do, I feel like I have been thrown in the middle of a project and have trouble figuring out what to do and where to start from, or what is expected of me in the end. That organization is what scares me the most, and lets me believe that I will not achieve my learning goals to the fullest extent."
+
 ##### Analysis
 
 
