@@ -901,4 +901,47 @@ _Soft Goals:_
 </dl>
 
 # Week 4
+## Assignment
+
+0. Execute the group elicitation technique to get information on the requirements for the DLO during the workshop hours on Thursday.
+1. Present your findings on the requirements for the DLO 
+- Which requirements did you find 
+- What did you learn about the domain
+- Which ideas presented by Richard were you able to refute / refine / substantiate 
+- What is the justification and how reliable are your findings? 
+- Why are these findings relevant (not a waste of your time)
+
+2. Make the work of wk1 - 3 presentable 
+- Provide a rationale for the organization of your document 
+- Show what you learned about requirements engineering and how this relates to the learning goals of the course 
+- Show what you learned about elicitation and your ability as interviewer
+- What did you learn about  identifying and gathering useful  hard / objective / measureable date
+- What can you learn from the current use of blackboard for the future use of any DLO?
+
+## Requirements 
+
+## 
+
+## Reading Assignments
+
+Reading questions:
+4.0. Browse the web three modelling techniques you can use in requirements engineering that you have never seen or used before. Find an example in which these are used. 
+4.1 What are good models for organising the knowledge about the successor of Blackboard
+4.2 How do you manage your data in such a way you are able to quickly restructure it, given you have new knowledge and insights.
+
+Required Reading:
+Daniel Kahneman: Thinking, Fast and Slow, Part III (pp. 199-268) 
+
+
+Ad 4.0
+There are a number of classical models: context diagrams, data flow diagrams, data models, use case diagrams, decision trees, task models, storyboards. But there are many more. A nice source that is freely available that  I recently encountered is: https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/requirements-engineering#heading_Modelling_page_100760. Also the chapter 8 about models in the recent book: Requirements in Engineering Projects: 2016 from Fernandes, Joao M.; Machado, Ricardo J. gives a nice overview.
+
+Ad 4.1-
+Functions of organising :
+(knowing what you know and what do not yet know, stimulating your own learning - retention, knowing which questions to ask, construing a coherent story)
+And of course: getting the important message across
+
+### Felix
+
+### Joel
 
