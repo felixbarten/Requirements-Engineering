@@ -901,6 +901,56 @@ _Soft Goals:_
 </dl>
 
 # Week 4
+
+## Final Workshop Description
+
+### Goal
+
+During our co-creation session we seek to prove/refute the following claims:
+
+- Which type of usability problems might be annoying but have no impact on education?
+    - What type of usability problems have students experienced while working with blackboard?
+
+- Which type of usability problems will lead to problems in education? 
+    - Has a student at any point in time have their performance during a course be negatively impacted due to a usability issue with blackboard?
+
+
+The goal of the workshop will be to design the most unusable digital learning environment system. One with functionalities that are difficult enough to use that they actually affect one's productivity. There are constraints in the sense that you cannot say the feature just does not work and a scenario cannot take an infinite amount of time to complete. Ideally, the system would still pose issues even for seasoned users of the system.
+
+### Script
+
+To do this we will do the following:
+
+- Seperate the workshop members into groups (5 in total).
+ 
+- Use force-fitting and assign each student a different aspect of the DLE (These will be the basic functionality of blackboard that we have gathered from our interviews)
+ 
+- The students must then come up with steps required for that part of the system with intention of ending up with a system with lowest usability level possible. (Time limit of 5 minutes)
+
+- Once the time limit is up, we will go through each scenario and decide which ones are worst when it comes to a user’s productivity along with asking other people in the workshop of ways they can think of making the scenario worse.
+
+*Expectations*:
+
+- No one can really come up with a nonusable scenario. This implies that is difficult to come up with real usability issues that affect productivity.
+
+- We end up with a nice set of functionalities with a low level of usability and we can analyze these to see which of these are present in blackboard and actually affect students. People often use past experiences to come up with idea so we can assume that they will gain at least some experience of usability effects
+
+- We end up up with very differing opinions on usability when going through the list of scenarios at the end of the session which shows how subjective usability can be.
+
+
+*Functionality*:
+
+1. The posting of announcements
+2. Creating course assignments (Teachers)
+3. Submitting assignments (Students)
+4. Organizing course material (Teachers) E.G. documents, lectures notes/slides
+5. Taking/doing Quizes/Tests (Students)
+    
+
+*Time*:
+
+Workshop has a max duration of 20 minutes and will then be followed by 10 minutes feedback round.
+
 ## Assignment
 
 0. Execute the group elicitation technique to get information on the requirements for the DLO during the workshop hours on Thursday.
@@ -919,6 +969,8 @@ _Soft Goals:_
 - What can you learn from the current use of blackboard for the future use of any DLO?
 
 ## Requirements 
+
+
 
 ## 
 
