@@ -972,7 +972,6 @@ Workshop has a max duration of 20 minutes and will then be followed by 10 minute
 
 
 
-## 
 
 ## Reading Assignments
 
