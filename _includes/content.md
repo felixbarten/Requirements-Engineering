@@ -980,7 +980,11 @@ Workshop has a max duration of 20 minutes and will then be followed by 10 minute
 
 ## Requirements
 
+### Requirements
+
 ### Findings
+
+
 
 ### Domain
 
@@ -988,7 +992,7 @@ The domain of DLO systems is in flux. The DLO systems have become an integral pa
 
 ### Refutations
 
-With the results from our interviews we were able to refute a few ideas presnented by Richard. 
+With the results from our interviews we were able to refute a few ideas presented by Richard. 
 
 #### The system should be user friendly 
 
@@ -997,6 +1001,15 @@ We refuted this idea with our interviews. We asked a lot of usability related qu
 #### Courses should be organised in one way
 
 A recurring idea was that the courses on blackboard should have a uniform way to increase user's ability to find information they are looking for.  However we were able to refute this idea with our interviews. We asked the interviewees if they would like a DLO system more or less if the courses would all be styled in a default template. A lot of people said they had no problem with diversity in a course if it served in the interest of making the course page better. There were a few people in favor of this idea but not that many compared to the previous group. 
+
+#### Justification and reliability
+
+The reliability of our answers during the interviews is good in our opinion. Our questions were not subjective or driving towards a particular answer. 
+
+A threat to validity could be that in our random interviewee selection we had a lot of people that used blackboard since september. However in later interview sessions we also found some people that had longer experience with blackboard and the answers between these groups did not vary at all on the usability points. 
+
+#### Relevance 
+
 
 
 
