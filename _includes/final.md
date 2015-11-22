@@ -916,11 +916,36 @@ _Soft Goals:_
 </dl>
 
 
-# Conclusion
+# Document structure rationale 
 
 Provide a rationale for the organization of your document 
 
-Dividing the information into sections based on the type of activities performed and having a chronological structure within them makes it easier for other people to understand what we did during the assignments and how we progressed.
+Dividing the information into sections based on the type of activities performed and having a chronological structure within them makes it easier for other people to understand what we did during the assignments and how we progressed. We chose this approach over our previous structure to group things more effectively instead of a mix of various activities each week. 
+
+# Conclusion and reflection
+
+## Felix 
+
+- Show what you learned about requirements engineering and how this relates to the learning goals of the course 
+ 
+  During the last four weeks I learned about the elicitation of requirements from stakeholders. The information about how the brain pattern matches information people say during conversations was interesting to me. This taught me that you need to pay a lot of attention in interviews to make sure no valuable information is lost in the exchange due to the requirements engineer's pattern matching. 
+  
+
+- Show what you learned about elicitation and your ability as interviewer
+
+  There are a lot of ways to elicict requirements from a stakeholder in interviews. By applying some of these methods we were able to get more in depth information than just by asking questions. Although I think my interviewing improved somewhat I think I still have a lot to learn about interviewing people. 
+
+- What did you learn about  identifying and gathering useful  hard / objective / measureable date
+
+  It's hard to obtain objective data from humans. In interviews some data can be obtained but it requires knowledge about when to drill further into a question and when to go to the next subject. These rely on social cues which may be hard to spot depending on the person. 
+
+- What can you learn from the current use of blackboard for the future use of any DLO?
+
+  I think the next version of the DLO should really take a look at the current most used features and focus on those instead of adding too much other features. If the most used functionalities can be improved by making it more accessible the overall benefit to the system will be larger than new features maybe 10% of the userbase will use. Furthermore there is a lot of frustration from the teacher's side of things so the ways data is inserted should probably be overhauled to make sure the time spent on managing groups, courses etc.... is less than it currently is. 
+
+  Another thing that may be good for the successor of blackboard is to maybe take a survey from all the teachers to look at which external tools are being used in conjunction with blackboard to see if any integration with those services would give a positive result. 
+
+## Joel 
 
 - Show what you learned about requirements engineering and how this relates to the learning goals of the course 
 
@@ -937,5 +962,3 @@ Dividing the information into sections based on the type of activities performed
 - What can you learn from the current use of blackboard for the future use of any DLO?
 
   The current use of blackboard shows that there will be always be users who choose to not use the system. And that if a user requires something that the DLO does not provide they will find some other method to fulfill that need. There will also always be people who would rather 
-
-
