@@ -410,7 +410,6 @@ Questions:
 1. Would you be willing to show us how you normally access blackboard?
 2. Can you show us how you access blackboard when you are looking for course material?
 
-## Interviews week 2
 
 ### Interview 1
 
