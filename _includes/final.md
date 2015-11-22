@@ -60,7 +60,7 @@ I have noticed a few annoying things about blackboard in the eight weeks I've us
  
 - The user interface is not the most intuitive in a number places. E.G: It is sometimes not sure that items are clickable such as:
 
- ![Screenshot](/images/blackboardscreenshot.png)
+ ![Screenshot](images/blackboardscreenshot.png)
   
 
   *The following is a table depicting the average number of times I visit blackboard per day*
@@ -410,7 +410,6 @@ Questions:
 1. Would you be willing to show us how you normally access blackboard?
 2. Can you show us how you access blackboard when you are looking for course material?
 
-## Interviews week 2
 
 ### Interview 1
 
@@ -917,8 +916,38 @@ _Soft Goals:_
     <dd> A student must be able to easily find material pertaining to a course (No information.)</dd>
 </dl>
 
+## Week 4
+
+Reading questions:
+
+4.0. Browse the web three modelling techniques you can use in requirements engineering that you have never seen or used before. Find an example in which these are used. 
+
+4.1 What are good models for organising the knowledge about the successor of Blackboard
+
+4.2 How do you manage your data in such a way you are able to quickly restructure it, given you have new knowledge and insights.
+
+### Felix
+
+### Joel
+
+#### 4.0
+
+I found the following modelling techniques:
+
+1. Goal-oriented Requirements Language - http://www.cs.toronto.edu/km/GRL/ http://lotos.csi.uottawa.ca/ucm/pub/UCM/VirLibComNet03/ComNet03.pdf http://areyoumodeling.com/2015/02/23/gsn/ (GSN)
+2. User Requirements notation - http://publications.uni.lu/bitstream/10993/19555/1/paper.pdf
+3. Problem Frames - https://www.academia.edu/454359/An_Example_Using_Problem_Frames_Analysis_of_a_Lighting_Control_System
+
+#### 4.1
+
+The succesor of blackboard will be a system that is intended to be used by students and teachers so because of this I believe a specialized form of i* modeling such as user requirements notations is a good fit for it. 
+
+#### 4.2
+
+During the assignment, I found that the use of simple text documents which makes use of hierarchies to be ideal when it comes to easily being able to modify the structure of existing data whenever necessary. Adding an automatically generated table of contents with hyperlinks aids with the navigation of the information. 
 
 # Conclusion and Reflection
+
 
 ## Felix 
 
@@ -957,4 +986,4 @@ _Soft Goals:_
 
 - What can you learn from the current use of blackboard for the future use of any DLO?
 
-  The current use of blackboard shows that there will be always be users who choose to not use the system. And that if a user requires something that the DLO does not provide they will find some other method to fulfill that need. There will also always be people who would rather 
+  The current use of blackboard shows that there will be always be users who choose to not use the system. And that if a user requires something that the DLO does not provide they will find some other method to fulfill that need. There will also always be people who would rather use a feature in DLO despite the fact their may be more optimal alternatives. 

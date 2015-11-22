@@ -33,7 +33,7 @@ cocreation: https://felixbarten.github.io/Requirements-Engineering/cocreation.ht
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
         {{ site.time | date_to_string }}
-        {% capture content %}{% include content.md %}{% endcapture %}
+        {% capture content %}{% include final.md %}{% endcapture %}
         {{ content  | markdownify }}
     <!-- FOOTER  -->
     <div id="footer_wrap" class="outer">
