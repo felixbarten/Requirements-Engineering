@@ -980,9 +980,29 @@ Workshop has a max duration of 20 minutes and will then be followed by 10 minute
 
 ## Requirements
 
-### Requirements
+### Requirements for blackboard's successor
+
+* A student must be able to access the materials of a course
+* A teacher must be able to organize their information in the way that best suits their course
+* Teachers must be able to provide assignments and students must be able to provide their solutions to them.
 
 ### Findings
+
+We found a number of things during our interview sessions: 
+
+Blackboard usage
+
+* Access course materials
+* Access grades
+* Receive and submit assignments
+* General course information
+* Contact information
+
+
+Other findings:
+
+* Some students actively avoid having to consult blackboard
+* Some students would prefer it if the scheduling software was included in blackboard
 
 
 
@@ -1013,6 +1033,9 @@ A threat to validity could be that in our random interviewee selection we had a 
 While these weeks may not have turned up any "true requirements" we think they are definitely relevant because we obtained some ideas and were able to refute some of the assumed requirements assembled for the next DLO system. 
 
 
+## Conclusion 
+
+## Reflection
 
 ## Reading Assignments
 
