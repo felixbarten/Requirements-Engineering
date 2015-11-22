@@ -294,7 +294,6 @@ No one can really come up with a nonusable scenario. This implies that is diffic
 
 Workshop has a max duration of 20 minutes and will then be followed by 10 minutes feedback round.
 
-## Week 4
 
 # Interviews
 
@@ -503,9 +502,11 @@ In contrast to the previous week we prepared some questions and topics to cover 
 ### Interview 1
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hwFrvyrWlV0" frameborder="0" allowfullscreen></iframe>
+
 ### Interview 2
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_prA-YPqsjs" frameborder="0" allowfullscreen></iframe>
+
 ### Interview 3 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C_KYIf-GzCo" frameborder="0" allowfullscreen></iframe>
@@ -892,7 +893,7 @@ _Hard Goals:_
   <dd> A student must be able to access the materials of a course (The system should be provide students with access to course materials similar to the way students can currently download documents from blackboard)</dd>
   <dt> 2. Achieve[TeacherDistributeCourseMaterial] </dt>
   <dd> A teacher must be able to distribute course information and assignments (Teachers must be able to provide documents using the system)</dd>
-  <dt> 3. Achieve[TeacherMustTailorCourse] </dt>
+  <dt> 3. Achieve[TeacherTailorCourse] </dt>
   <dd> A teacher must be able to organize their information in the way that best suits their course (The system should provide some level of flexibility so that teachers can organize their documents as best they see fit.)</dd>
   <dt> 4. Achieve[AdministrationCourseMaterial] </dt>
   <dd> The system-to-be should automate processes pertaining to the distribution of course material (The system should alleviate issues of providing course material in a traditional way such as for example giving a document to student who was sick and thus not present during a lecture.)</dd>
@@ -908,7 +909,6 @@ _Soft Goals:_
     <dd> A student must be able to easily find material pertaining to a course (No information.)</dd>
 </dl>
 
-## Week 4
 
 # Conclusion
 
