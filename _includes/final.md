@@ -54,7 +54,7 @@ I have noticed a few annoying things about blackboard in the eight weeks I've us
  
 - The user interface is not the most intuitive in a number places. E.G: It is sometimes not sure that items are clickable such as:
 
- ![Screenshot](../images/blackboardscreenshot.png)
+ ![Screenshot](/images/blackboardscreenshot.png)
   
 
   *The following is a table depicting the average number of times I visit blackboard per day*
@@ -75,7 +75,7 @@ The usage amounts are probably due to the fact that blackboard was never actuall
 
 ## Week 2
 
-RESEARCH: [2 hours] (group)
+RESEARCH: 
 Spend two hours on the web and in the (digital) library to make sense of the domain and what possibilities there are to make this better.
 
 ### Course Goal
@@ -133,31 +133,31 @@ Due to being previously being students of the HvA we also looked into some infor
 
 ### Questions we have come up with
 
-#### How satisfied is the UvA with blackboard?
+1. How satisfied is the UvA with blackboard?
 
-##### How satisfied are students?
+2. How satisfied are students?
 
-##### Does blackboard in any way influence the student course evaluations?
+3. Does blackboard in any way influence the student course evaluations?
 
-##### How satisfied are teachers?
+4. How satisfied are teachers?
 
-#### What are different ways that students and teachers use blackboard?
+5. What are different ways that students and teachers use blackboard?
 
-##### Is there possibly a reason relating to differences in faculties, teachers and courses that may explain the non-uniform setup of courses on blackboard?
+6. Is there possibly a reason relating to differences in faculties, teachers and courses that may explain the non-uniform setup of courses on blackboard?
 
-#### What is actually the effect of digital learning environment on an educational institution like the UvA?
+7. What is actually the effect of digital learning environment on an educational institution like the UvA?
 
-##### What would a model be like for an institution that performs well with a sub-par DLE ?
+8. What would a model be like for an institution that performs well with a sub-par DLE ?
 
-##### What would a model be like for an institution that performs well with a relatively good DLE ?
+9. What would a model be like for an institution that performs well with a relatively good DLE ?
 
-##### What would a model be like for an institution that performs well without a DLE ?
+10. What would a model be like for an institution that performs well without a DLE ?
 
-##### What would a model be like for an institution that performs poorly with a relatively good DLE ?
+11. What would a model be like for an institution that performs poorly with a relatively good DLE ?
 
-#### How does a DLE/blackboard affect the performance of students?
+12. How does a DLE/blackboard affect the performance of students?
 
-##### Are there students which have been affected negatively by blackboard? And in what degree? E.G due to usability issues
+13. Are there students which have been affected negatively by blackboard? And in what degree? E.G due to usability issues
 
 
 ## Week 3
