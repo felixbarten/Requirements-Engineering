@@ -6,7 +6,7 @@
 
 # Introduction
 
-This document is organized into several different sections based on activities we have performed during the course. Within those sections the content is futher divided into weeks. At the end of this there is conclusion provided. This is done because we felt that this method of organization makes it easy to see what activities were performed during the assignment while also clearly showing our progress through the course. 
+This document is organized into several different sections based on activities we have performed during the course. Within those sections the content is futher divided into weeks. At the end of this there is conclusion provided. Dividing the information into sections based on the type of activities performed and having a chronological structure within them makes it easier for other people to understand what we did during the assignments and how we progressed.
 
 # Assignments
 
@@ -916,13 +916,7 @@ _Soft Goals:_
 </dl>
 
 
-# Document structure rationale 
-
-Provide a rationale for the organization of your document 
-
-Dividing the information into sections based on the type of activities performed and having a chronological structure within them makes it easier for other people to understand what we did during the assignments and how we progressed. We chose this approach over our previous structure to group things more effectively instead of a mix of various activities each week. 
-
-# Conclusion and reflection
+# Conclusion and Reflection
 
 ## Felix 
 
