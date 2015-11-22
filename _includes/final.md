@@ -940,8 +940,12 @@ I found three modeling techniques online
 
 #### 4.1
 
+A good model for organising this data would be using a form of goal driven requirements engineering.
 
 #### 4.2 
+
+For the storage of information an elaborate scheme could be used as in one of the modeling techniques but we found that storing the data in a plain text file worked for us. This data would be styled with markdown and a few extensions to create navigation context to it. This data was easy enough to restructure for the purposes of this assignment. 
+
 
 ### Joel
 
