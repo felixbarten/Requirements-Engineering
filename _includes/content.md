@@ -1010,7 +1010,7 @@ A threat to validity could be that in our random interviewee selection we had a 
 
 #### Relevance 
 
-
+While these weeks may not have turned up any "true requirements" we think they are definitely relevant because we obtained some ideas and were able to refute some of the assumed requirements assembled for the next DLO system. 
 
 
 
