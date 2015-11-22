@@ -1,3 +1,9 @@
+# Table of Contents
+{:.no_toc}
+
+1. TOC
+{:toc}
+
 # Introduction
 
 This document is organized into several different sections based on activities we have performed during the course. Within those sections the content is futher divided into weeks. At the end of this there is conclusion provided. This is done because we felt that this method of organization makes it easy to see what activities were performed during the assignment while also clearly showing our progress through the course. 
