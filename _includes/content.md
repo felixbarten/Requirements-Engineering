@@ -1056,5 +1056,21 @@ And of course: getting the important message across
 
 ### Felix
 
+#### 4.0
+
+
+I found three modeling techniques online
+
+* linear requirements engineering http://www.nyu.edu/classes/jcf/CSCI-GA.2440-001/handouts/10.1.1.3.6502.pdf
+* iterative requirements engineering http://www.nyu.edu/classes/jcf/CSCI-GA.2440-001/handouts/10.1.1.3.6502.pdf
+* Model driven requirements engineering http://rcis-conf.com/rcis2012/document/tuto1_rcis2012.pdf
+
+#### 4.1
+
+
+#### 4.2 
+
+
+
 ### Joel
 
