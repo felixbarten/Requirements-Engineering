@@ -972,7 +972,17 @@ Workshop has a max duration of 20 minutes and will then be followed by 10 minute
 - What did you learn about  identifying and gathering useful  hard / objective / measureable date
 - What can you learn from the current use of blackboard for the future use of any DLO?
 
-## Requirements 
+## Co-Creation Session
+ 
+
+[Link to collected data]({{page.cocreation}})
+
+
+## Requirements
+
+###  Findings
+
+### Domain
 
 
 
