@@ -971,7 +971,7 @@ Workshop has a max duration of 20 minutes and will then be followed by 10 minute
 ## Co-Creation Session
  
 
-[Link to collected data]({{page.cocreation}})
+[Link to Co-creation page]({{page.cocreation}})
 
 
 ## Requirements
