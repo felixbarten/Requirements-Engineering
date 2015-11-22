@@ -990,7 +990,7 @@ Workshop has a max duration of 20 minutes and will then be followed by 10 minute
 
 We found a number of things during our interview sessions: 
 
-Blackboard usage
+What is blackboard primarily used for by students: 
 
 * Access course materials
 * Access grades
@@ -998,13 +998,11 @@ Blackboard usage
 * General course information
 * Contact information
 
-
 Other findings:
 
 * Some students actively avoid having to consult blackboard
 * Some students would prefer it if the scheduling software was included in blackboard
-
-
+* None of the students in our interviews had ever had any teachers that didn't use blackboard. (One student knew of teachers that did not use blackboard) 
 
 ### Domain
 
