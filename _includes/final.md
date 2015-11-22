@@ -940,7 +940,7 @@ I found the following modelling techniques:
 
 #### 4.1
 
-The succesor of blackboard will be a system that is intended to be used by students and teachers so because of this I believe specialized form of i* modeling such as user requirements notations is a good fit for it. 
+The succesor of blackboard will be a system that is intended to be used by students and teachers so because of this I believe a specialized form of i* modeling such as user requirements notations is a good fit for it. 
 
 #### 4.2
 
