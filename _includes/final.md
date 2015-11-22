@@ -194,7 +194,7 @@ Prepare Co-creation:
 
 In the workshop from this week we will discuss some techniques to co-create (design in this case) a new system. You will have to do a co-creation session next week. Please prepare for this. Activities: read, learn, plan. Output: a script for the co-creation session 
 
-## Requirements Engineering plan
+### Requirements Engineering plan
 
 Questions we've already answered in this project: 
 
@@ -272,22 +272,22 @@ To achieve this we will do the following:
 
 - Once the time limit is up, we will go through each scenario and decide which ones are worst when it comes to a user’s productivity along with asking other people in the workshop of ways they can think of making the scenario worse.
 
-#### Expectations:
+#### Expectations
 
-##### Possible Result 1:
+##### Possible Result 1
 
 No one can really come up with a nonusable scenario. This implies that is difficult to come up with real usability issues that affect productivity.
 
-##### Possible Result 2:
+##### Possible Result 2
 
  We end up with a nice set of functionalities with a low level of usability and we can analyze these to see which of these are present in blackboard and actually affect students. People often use past experiences to come up with idea so we can assume that they will gain at least some experience of usability effects
 
-##### Possible Result 3:
+##### Possible Result 3
 
  We end up up with very differing opinions on usability when going through the list of scenarios at the end of the session which shows how subjective usability can be.
 
 
-#### Functionality:
+#### Functionality
 
 1. The posting of announcements
 2. Creating course assignments (Teachers)
@@ -296,48 +296,51 @@ No one can really come up with a nonusable scenario. This implies that is diffic
 5. Taking/doing Quizes/Tests (Students)
     
 
-#### Time:
+#### Time
 
 Workshop has a max duration of 20 minutes and will then be followed by 10 minutes feedback round.
 
+## Week 4
 
+{% include cocreation.md %}
+      
 # Interviews
 
 ## Week 1
 
 In week 1 we have conducted a couple of interviews to become familiar with interviewing people. 
 
-## Interview 1: Bart de Man 
+### Interview 1: Bart de Man 
 
 Location: G building 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X-UbnzS6HSI" frameborder="0" allowfullscreen></iframe>
 
-## Interview 2: Ardavan Ghaffari
+### Interview 2: Ardavan Ghaffari
 
 Location: G building 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o_qFuLCrHTA" frameborder="0" allowfullscreen></iframe>
 
-## Interview 3: Dennis Vermeulen
+### Interview 3: Dennis Vermeulen
 
 Location: Interviewed an empty classroom
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q4AcebGHNT4" frameborder="0" allowfullscreen></iframe>
 
-## Interview 1 minute overview
+### Interview 1 minute overview
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IS7C3cLwzCo" frameborder="0" allowfullscreen></iframe>
 
-## Reflection
+### Reflection
 
-### Felix
+#### Felix
 
 While the goal of this exercise was to become familiar with interviewing people. Interviewing (on video) was relatively new to me because it was never required to interview strangers for previous assignments. Because the assignment was to conduct interviews without any preparation we did just that, however I feel like there would be more beneficial information uncovered if there was a short preparation before the interviews. A lot of the times I forgot which questions to ask next or would get confused where I was in an interview and this could have probably been prevented with some preparation time. 
 
 However it wasn't that hard to get useful answers, however most people found that the blackboard system wasn't that bad to begin with for their day to day uses. However I did not really drill down that much because that wasn't the whole assignment but in retrospect I probably should have drilled down a bit further because there was more information available. Overall I don't think I did that badly but it could have gone a lot better so there are lots of opportunities to improve! 
 
-### Joel
+#### Joel
 
 The interviews were not conducted with a particular goal in mind that was known to both parties. An experiment could be done to make it clear and see if that leads to more fruitful interviews.
 
@@ -346,7 +349,7 @@ It seems to be effective to draw on the person's past experience. The answers we
 The location of an interview seems to also have an effect on the type of answers you receive. For example closed spaces can lead to the interviewee being more reserved and less likely to openly share their answer it would probably be a good to idea to look more closely at the effect of the location/setting
 on the answers provided. 
 
-## Findings
+### Findings
 
 During the interviews we found some questions are more efficient than others at eliciting a response from the interviewee. Very broad questions like: "What don't you like about blackboard" sometimes work great and other times don't result in any useful information. While some of these questions could be stepping stones to a more drilled down approach for these questions the questions usually aren't that effective. 
 
@@ -425,11 +428,11 @@ Questions:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PRsyzACBqMA" frameborder="0" allowfullscreen></iframe>
 
-## Observations 
+### Observations 
 
 Many students seem to complain about the usability of blackboard but from all of the interviews today most seemed to be satisfied with the features provided and they apparently have never been impacted negatively because the UvA uses blackboard. One particular student said that they would also like to have class schedules integrated with blackboard but that was more of just a small preference and there was no real clear reason aside from having access to more features from one place. Two of the students we interviewed also said that they used blackboard extensively which is somewhat in contrast to the interviews from the previous week but this may be due to students being from different faculties where one is more technically inclined than the other.
 
-### Questions analysis
+#### Questions analysis
 
 **Question: 1. Who are you and what do you study?**
 
@@ -493,13 +496,13 @@ One person said it would help a little bit but that it wouldn't solve the usabil
 
 No Answers
 
-## Reflection
+### Reflection
 
-### Felix 
+#### Felix 
 
 I've conducted one interview this week. My interview was a mix of a regular interview and some part of it was dedicated to the apprenticing the customer paper. There are a few pitfalls when using this method. The interviewer needs to feign ignorance in order to let the customer show him to do the work. I don't think I completely succeeded in this aspect of the exercise. Sometimes I would help the interviewee out by pointing out more efficient ways to do things. When doing this interview I asked the interviewee if she could show me how to access her assignments. I chose this activity because it was always the most prevalent answer whenever we asked what the students used blackboard for. And this is of course one of the main functionalities of the system. Although the answer was good I don't think we used the method's full potential for the interview. There were more interactions possible although a student's interaction with blackboard might be quite simple (see assignments, course info etc...).
 
-### Joel
+#### Joel
 
 In contrast to the previous week we prepared some questions and topics to cover during the interviews. It seems as if this makes it much easier to conduct an interview but we were still somewhat directionless due to the fact that we did not quite have clear research questions for requirements we wanted to have answered during the interviews. It also seemed that during my interviews in particular I had some issues conducting keeping them going smoothly and found it difficult to drill down into topics.
 
@@ -850,9 +853,9 @@ Van Lamsweerde notation:
 
 ### Joel
 
-*3.1 Sense making: Read the materials about Weick and Klein. Talk to four different students about this course, and find differences about their perception about this assignment and why it helps them achieve the learning goals. Try to explain these differences using the articles of Weick and Klein.*
+#### 3.1 
 
-- Student 1:
+ Student 1:
 
 > My learning goals are to acquire knowledge and getting a degree. This course focuses in my opinion very much on learning by self-reflection. By being confronted with your own mistakes and having discussions within or outside your own team, you will be able to learn more instead of the teacher telling us what his solution is to requirements engineering. For this assignment we need to use many techniques for decision making which help us to acquire a lot of knowledge in the field of requirements engineering.
 
@@ -884,13 +887,12 @@ of what is an actual requirement and what is not and for sure provide with a goo
 The differences I found was that the majority of students focus on the practical portion of the statement while talking about their perception. These students were also the ones begun talking by first explicitly stating their goal and explaining how this course would help them achieve it but another student begun by talking about the course in general and everything he has learned so far. It seems as if the students who focused on the practical portion of the course while describing their views are more interested in gaining experience which they can refer to in future when they are actually gathering requirements in the real world. Referring to past experiences and taking decisions based on these situations is very similar to the NDM model described in the paper by Gary Klein, the recognition-primed decision model. Another student described issues with the time allotted to the course assignments and likened it to a "small crisis" in which it is required that they find the core requirements of the assignment which is somewhat discussed in Weick's paper on enactment. 
 
 
-*3.2 Decisions: reflect on where you spend your time on the past week. Can you still account for your time spent? Did you spent it wisely? Did you make explicit decisions about it? Can you explain your decision making using the model of naturalistic decision making?* 
+#### 3.2
 
 This week I spent my time the majority of my time on deciding deciding which questions we plan on answering this week and attempting to prepare for the weekly interviews so that we can come up with answers for these questions. I am not confident that it was the best way to spend my time because I still find it difficult to interview people. But we did gain some data that I feel we can use to answer our questions for this week. I don't believe I could explain my decision using the NDM model but it looks more as me attempting to understand the situation by first taking action and dealing with the results that arise. I think it is a form of enactment.
 
 
-*3.3 Define the goals for the successor of Blackboard using the notation of van Lamsweerde. Quickly map how much you know how to achieve these goals.*
-
+#### 3.3 
 
 _Hard Goals:_
 
