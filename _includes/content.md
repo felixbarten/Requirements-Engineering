@@ -1,8 +1,12 @@
+## Compilation of week 1 to 3
+{:.no_toc}
+
+[Link to compilation]({{page.comp}})
+
 ## Data
 {:.no_toc}
 
 [Link to collected data]({{page.data}})
-
 
 # Table of Contents
 {:.no_toc}
@@ -129,7 +133,7 @@ Location: G building
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o_qFuLCrHTA" frameborder="0" allowfullscreen></iframe>
 
-#### Interview 3: Dennis Vermeulen
+### Interview 3: Dennis Vermeulen
 
 Location: Interviewed an empty classroom
 
@@ -502,8 +506,8 @@ By using blackboard during the "Apprenticing the customer interview" I had the i
 #### 2.1 
 
 1. I can understand why you feel or think that way would you like to talk about it?
-2. Looking concerned when someone tells something depressing
-3. Looking interested when someone starts talking about something they enjoy
+2. "Hmm" 
+3. "I see" 
 4. Asking an deep question to clarify what someone is talking about
 5. Acknowledging people when they make significant contributions to the interview/discussion
 
@@ -686,13 +690,13 @@ To do this we will do the following:
 4. Once each group is finished. We will go through each scenario and decide which ones are worst when it comes to a user's productivity along with asking other people in the workshop of ways they can think of making the situations worse.
 
 
-Expectations:  
+Possible expectations:  
 
-- No one can really come up with a nonusable scenario (Difficult to come).
+1. No one can really come up with a nonusable scenario (Difficult to come).
 
-- We end up with a nice set of functionalities with a low level of usability and we can analyze these to see which of these are present in blackboard and actually affect students.
+2. We end up with a nice set of functionalities with a low level of usability and we can analyze these to see which of these are present in blackboard and actually affect students.
 
-- We end up up with very differing opinions on usability when going through the list of scenarios at the end of the session which shows how subjective usability can be.
+3. We end up up with very differing opinions on usability when going through the list of scenarios at the end of the session which shows how subjective usability can be.
 
 
 
@@ -969,7 +973,6 @@ Workshop has a max duration of 20 minutes and will then be followed by 10 minute
 - What can you learn from the current use of blackboard for the future use of any DLO?
 
 ## Requirements 
-
 
 
 

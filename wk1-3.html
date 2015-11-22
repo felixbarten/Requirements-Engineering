@@ -1,7 +1,5 @@
 ---
-repo: https://github.com/felixbarten/Requirements-Engineering
-data: http://felixbarten.github.io/Requirements-Engineering/data.html
-comp: http://felixbarten.github.io/Requirements-Engineering/wk1-3.html
+repository_url: https://github.com/felixbarten/Requirements-Engineering
 ---
 
 <!DOCTYPE html>
@@ -21,7 +19,7 @@ comp: http://felixbarten.github.io/Requirements-Engineering/wk1-3.html
     <!-- HEADER -->
     <div id="header_wrap" class="outer">
         <header class="inner">
-          <a id="forkme_banner" href="{{page.repo}}">View on GitHub</a>
+          <a id="forkme_banner" href="{{repository_url}}">View on GitHub</a>
 
           <h1 id="project_title">Requirements Engineering</h1>
           <h2 id="project_tagline">Felix Barten and Joel James Bartholomew</h2>
@@ -32,7 +30,7 @@ comp: http://felixbarten.github.io/Requirements-Engineering/wk1-3.html
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
         {{ site.time | date_to_string }}
-        {% capture content %}{% include content.md %}{% endcapture %}
+        {% capture content %}{% include final.md %}{% endcapture %}
         {{ content  | markdownify }}
     <!-- FOOTER  -->
     <div id="footer_wrap" class="outer">
