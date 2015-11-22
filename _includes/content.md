@@ -974,6 +974,15 @@ Workshop has a max duration of 20 minutes and will then be followed by 10 minute
 [Link to collected data]({{page.cocreation}})
 
 
+## Requirements
+
+###  Findings
+
+### Domain
+
+
+
+
 ## Reading Assignments
 
 Reading questions:
