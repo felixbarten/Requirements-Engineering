@@ -1,7 +1,6 @@
 # Co creation observations
 
-In week 3 it was asked to make a plan for the co creation session. During the workshop session a selection was made for three sessions and these were carried out. 
-
+In week 3 it was asked to make a plan for the co creation session. During the workshop session in week4 a selection was made for three sessions and these were carried out. The co-creation script we created was not selected.
 
 ## Co creation session 1 Adrian & Kevin
 
