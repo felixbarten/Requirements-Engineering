@@ -1,6 +1,6 @@
 # Introduction
 
-This document is organized into several different sections based on activities we have performed during the course. Within those sections the content is futher divided into weeks. At the end of this there is conclusion provided. 
+This document is organized into several different sections based on activities we have performed during the course. Within those sections the content is futher divided into weeks. At the end of this there is conclusion provided. This is done because we felt that this method of organization makes it easy to see what activities were performed during the assignment while also clearly showing our progress through the course. 
 
 # Assignments
 
@@ -903,7 +903,7 @@ _Hard Goals:_
 _Soft Goals:_
 
 <dl>
-    <dt> 1. Minimize[CourseSetupTime]</dt>
+    <dt> 1. Minimize[CourseSetupTimeL] </dt> 
     <dd> After thinking thoroughly about the structure of a course a teacher should be able to realise that structure in the system-to-be in as little time as possible (No information on how to achieve this) </dd>
     <dt> 2. Minimize[DifficultyFindingCourseMaterial]</dt>
     <dd> A student must be able to easily find material pertaining to a course (No information.)</dd>
@@ -912,6 +912,24 @@ _Soft Goals:_
 
 # Conclusion
 
-# Overall Reflection
+Provide a rationale for the organization of your document 
+
+Dividing the information into sections based on the type of activities performed and having a chronological structure within them makes it easier for other people to understand what we did during the assignments and how we progressed.
+
+- Show what you learned about requirements engineering and how this relates to the learning goals of the course 
+
+  My learning goals were to primarily learn what the different pitfalls that can appear during the requirements engineering process. I feel that I learned a lot during this course about my own shortcomings as requirements engineer and how my tendencies to not pay enough attention to people can cause me to miss opportunities to gain important and valuable information.
+
+- Show what you learned about elicitation and your ability as interviewer
+
+  The hardest part of conducting interviews is coming up with meaningful questions that allow for high quality answers. During the interviews it became apparent that empathetic listening is very good tool to get people to provider the interviewer with more information. I learned that I personally am not the best interviewer because I find it difficult to notice important cues while interviewing people. 
+
+- What did you learn about  identifying and gathering useful  hard / objective / measureable date
+
+  One must be able to easily determine what types of data are necessary for the requirements engineering process because it is very time consuming to gather objective information. This is due to the fact that requirements engineers are primarily dealing with people who are not always the best sources of information or the adept at sharing objective information. Information pertaining to the goals of an organization or its vision can be difficult to ascertain because their may not be connection to reality or there is no one present in the organization with this knowledge.  
+
+- What can you learn from the current use of blackboard for the future use of any DLO?
+
+  The current use of blackboard shows that there will be always be users who choose to not use the system. And that if a user requires something that the DLO does not provide they will find some other method to fulfill that need. There will also always be people who would rather 
 
 
