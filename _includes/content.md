@@ -980,7 +980,29 @@ Workshop has a max duration of 20 minutes and will then be followed by 10 minute
 
 ## Requirements
 
+### Requirements for blackboard's successor
+
+* A student must be able to access the materials of a course
+* A teacher must be able to organize their information in the way that best suits their course
+* Teachers must be able to provide assignments and students must be able to provide their solutions to them.
+
 ### Findings
+
+We found a number of things during our interview sessions: 
+
+What is blackboard primarily used for by students: 
+
+* Access course materials
+* Access grades
+* Receive and submit assignments
+* General course information
+* Contact information
+
+Other findings:
+
+* Some students actively avoid having to consult blackboard
+* Some students would prefer it if the scheduling software was included in blackboard
+* None of the students in our interviews had ever had any teachers that didn't use blackboard. (One student knew of teachers that did not use blackboard) 
 
 ### Domain
 
@@ -988,7 +1010,7 @@ The domain of DLO systems is in flux. The DLO systems have become an integral pa
 
 ### Refutations
 
-With the results from our interviews we were able to refute a few ideas presnented by Richard. 
+With the results from our interviews we were able to refute a few ideas presented by Richard. 
 
 #### The system should be user friendly 
 
@@ -998,8 +1020,20 @@ We refuted this idea with our interviews. We asked a lot of usability related qu
 
 A recurring idea was that the courses on blackboard should have a uniform way to increase user's ability to find information they are looking for.  However we were able to refute this idea with our interviews. We asked the interviewees if they would like a DLO system more or less if the courses would all be styled in a default template. A lot of people said they had no problem with diversity in a course if it served in the interest of making the course page better. There were a few people in favor of this idea but not that many compared to the previous group. 
 
+#### Justification and reliability
+
+The reliability of our answers during the interviews is good in our opinion. Our questions were not subjective or driving towards a particular answer. 
+
+A threat to validity could be that in our random interviewee selection we had a lot of people that used blackboard since september. However in later interview sessions we also found some people that had longer experience with blackboard and the answers between these groups did not vary at all on the usability points. 
+
+#### Relevance 
+
+While these weeks may not have turned up any "true requirements" we think they are definitely relevant because we obtained some ideas and were able to refute some of the assumed requirements assembled for the next DLO system. 
 
 
+## Conclusion 
+
+## Reflection
 
 ## Reading Assignments
 
