@@ -330,7 +330,7 @@ Other findings:
 * Some students would prefer it if the scheduling software was included in blackboard
 * None of the students in our interviews had ever had any teachers that didn't use blackboard. (One student knew of teachers that did not use blackboard) 
 
-#### Domain
+### Domain
 
 The domain of DLO systems is in flux. The DLO systems have become an integral part of educations everywhere. There is a some research in this area to increase the effectiveness of the DLOS systems but from our research session this research is quite limited. A paper from the Gates foundation lists the possibly wanted features for a future DLO system but none of the systems currently available on the market come close to this vision. A lot of DLO systems currently have problems with adapting to recent technological advancements. For example the app for the blackboard system is quite outdated and doesn't have a good user experience. 
 
