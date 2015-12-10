@@ -352,7 +352,7 @@ The reliability of our answers during the interviews is good in our opinion. Our
 
 A threat to validity could be that in our random interviewee selection we had a lot of people that used blackboard since september. However in later interview sessions we also found some people that had longer experience with blackboard and the answers between these groups did not vary at all on the usability points. 
 
-#### Relevance 
+### Relevance 
 
 While these weeks may not have turned up any "true requirements" we think they are definitely relevant because we obtained some ideas and were able to refute some of the assumed requirements assembled for the next DLO system. 
 
